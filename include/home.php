@@ -2,13 +2,13 @@
         <div id="columns" class="container">
             <div class="row" id="columns_inner">
                 <div id="left_column" class="column col-xs-12" style="width:22%;">
-                    <div id="categories_block_left" class="block"><h2 class="title_block"> Categories</h2>
+                    <div id="categories_block_left" class="block"><h2 class="title_block"> دسته بندی محصولات</h2>
 
                         <div class="block_content">
                             <ul class="tree dhtml">
                                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/3-electronics"
                                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
-                                    Electronics </a>
+                                    آرایشی - بهداشتی </a>
                                     <ul>
                                         <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/17-mobiles"
                                                title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
@@ -141,10 +141,10 @@
                                 </li>
                                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/12-accessories"
                                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
-                                    Accessories </a></li>
+                                    مکمل و غذای کودک </a></li>
                                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/13-fashion"
                                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
-                                    Fashion </a>
+                                    تجهیزات پزشکی </a>
                                     <ul>
                                         <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/21-men"
                                                title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
@@ -234,13 +234,13 @@
                                 </li>
                                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/14-interiors"
                                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
-                                    Interiors </a></li>
+                                    ارتوپدی </a></li>
                                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/15-kitchen"
                                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
-                                    Kitchen </a></li>
+                                    آقایان </a></li>
                                 <li class="last"><a href="http://prestashop-demos.org/PRS04/PRS040084/en/16-house-holds"
                                                     title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
-                                    House Holds </a></li>
+                                    بانوان </a></li>
                             </ul>
                         </div>
                     </div>
@@ -257,35 +257,31 @@
                     <section id="informations_block_left_1" class="block informations_block_left"><p
                             class="title_block"><a
                             href="http://prestashop-demos.org/PRS04/PRS040084/en/content/category/1-home">
-                        Information </a></p>
+                        اطلاعات</a></p>
 
                         <div class="block_content list-block">
                             <ul>
                                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/content/1-delivery"
-                                       title="Delivery"> Delivery </a></li>
+                                       title="Delivery"> ارسال </a></li>
                                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/content/2-legal-notice"
-                                       title="Legal Notice"> Legal Notice </a></li>
+                                       title="Legal Notice"> قوانین </a></li>
                                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/content/4-about-us"
-                                       title="About us"> About us </a></li>
+                                       title="About us"> درباره ما </a></li>
                                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/content/5-secure-payment"
-                                       title="Secure payment"> Secure payment </a></li>
+                                       title="Secure payment"> نحوه پرداخت </a></li>
                                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/stores" title="Our stores">
-                                    Our stores </a></li>
+                                    فروشگاه های ما </a></li>
                             </ul>
                         </div>
                     </section>
                     <div id="tm_links_block1" class="block tm_links_block1"><h4 class="title_block"><a
-                            href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="My account">My
-                        account</a></h4>
+                            href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="My account">حساب من</a></h4>
                         <ul class="block_content list-block">
                             <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#"
-                                   title="orders">orders</a></li>
-                            <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="credit slips">credit
-                                slips</a></li>
-                            <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="addresses">addresses</a>
+                                   title="orders">سفارش ها</a></li>
+                            <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="addresses">آدرس ها</a>
                             </li>
-                            <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="Debit info">Debit
-                                info</a></li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -337,7 +333,7 @@
                             </ul>
                         </div>
                         <div id="featured-products_block_center" class="block products_block clearfix"><h2
-                                class="centertitle_block">Featured products</h2>
+                                class="centertitle_block">محصولات ویژه</h2>
 
                             <div class="block_content">
                                 <div class="customNavigation"><a class="btn prev feature_prev"><i
@@ -585,8 +581,7 @@
                             </div>
                         </div>
                         <div id="newproducts_block" class="block products_block"><h2 class="centertitle_block"><a
-                                href="http://prestashop-demos.org/PRS04/PRS040084/en/new-products" title="New products">New
-                            products</a></h2>
+                                href="http://prestashop-demos.org/PRS04/PRS040084/en/new-products" title="New products">محصولات جدید</a></h2>
 
                             <div class="block_content">
                                 <ul class="product_list grid row">
@@ -879,8 +874,7 @@
                 </div>
                 <div id="right_column" class="col-xs-12 column" style="width:22%;">
                     <div id="new-products_block_right" class="block products_block"><h4 class="title_block"><a
-                            href="http://prestashop-demos.org/PRS04/PRS040084/en/new-products" title="New products">New
-                        products</a></h4>
+                            href="http://prestashop-demos.org/PRS04/PRS040084/en/new-products" title="New products">محصولات جدید</a></h4>
 
                         <div class="block_content products-block">
                             <ul class="products">
@@ -974,7 +968,7 @@
                     </ul>
                     <div id="special_block_right" class="block"><p class="title_block"><a
                             href="http://prestashop-demos.org/PRS04/PRS040084/en/prices-drop" title="Specials">
-                        Specials </a></p>
+                        پیشنهاد ویژه </a></p>
 
                         <div class="block_content products-block">
                             <ul>
@@ -999,7 +993,7 @@
                             </ul>
                             <div><a class="btn btn-default button button-small"
                                     href="http://prestashop-demos.org/PRS04/PRS040084/en/prices-drop"
-                                    title="All specials"> <span>All specials<i
+                                    title="All specials"> <span>همه پیشنهادات<i
                                     class="icon-chevron-right right"></i></span> </a></div>
                         </div>
                     </div>

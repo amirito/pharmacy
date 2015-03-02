@@ -6,15 +6,13 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <title>Demo Store</title>
-    <meta name="description" content="Shop powered by PrestaShop"/>
-    <meta name="generator" content="PrestaShop"/>
+    <title>داروخانه</title>
+    <meta name="description" content="">
+    <meta name="author" content="rayweb.ir | شرکت طراحی وب سایت رای وب">
     <meta name="robots" content="index,follow"/>
     <meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0"/>
-    <meta name="apple-mobile-web-app-capable" content="yes"/>
-    
     <link rel="stylesheet" href="css/style.css"
-          type="text/css" media="all"/>
+    type="text/css" media="all"/>
     <link rel="stylesheet" type="text/css" href="css/custom.css"/>
     <!--[if IE 8]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -58,11 +56,11 @@
                         </div>
                         <div class="header_cart ">
                             <div class="shopping_cart"><a href="http://prestashop-demos.org/PRS04/PRS040084/en/order"
-                                                          title="View my shopping cart" rel="nofollow"> <b>Cart</b>
+                                                          title="View my shopping cart" rel="nofollow"> <b>سبد خرید</b>
                                 <span class="ajax_cart_quantity unvisible">0</span> <span
                                         class="ajax_cart_product_txt unvisible">Product</span> <span
                                         class="ajax_cart_product_txt_s unvisible">Products</span> <span
-                                        class="ajax_cart_total unvisible"> </span> <span class="ajax_cart_no_product">(empty)</span>
+                                        class="ajax_cart_total unvisible"> </span> <span class="ajax_cart_no_product">(خالی)</span>
                             </a>
 
                                 <div class="cart_block block exclusive">
@@ -132,10 +130,10 @@
                             <div class="cat-title">Categories</div>
                             <ul class="sf-menu clearfix menu-content">
                                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/3-electronics"
-                                       title="Electronics">Electronics</a>
+                                       title="Electronics">صفحه اصلی</a>
                                     <ul>
                                         <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/17-mobiles"
-                                               title="Mobiles">Mobiles</a>
+                                               title="Mobiles">sd</a>
                                             <ul>
                                                 <li>
                                                     <a href="http://prestashop-demos.org/PRS04/PRS040084/en/18-samsung-galaxy"
@@ -240,8 +238,8 @@
                                     </ul>
                                 </li>
                                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/12-accessories"
-                                       title="Accessories">Accessories</a></li>
-                                <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/13-fashion" title="Fashion">Fashion</a>
+                                       title="Accessories">درباه ما</a></li>
+                                <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/13-fashion" title="Fashion">تماس با ما</a>
                                     <ul>
                                         <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/21-men" title="Men">Men</a>
                                             <ul>
@@ -312,9 +310,9 @@
                                     </ul>
                                 </li>
                                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/14-interiors"
-                                       title="Interiors">Interiors</a></li>
+                                       title="Interiors">استخدام</a></li>
                                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/16-house-holds"
-                                       title="House Holds">House Holds</a></li>
+                                       title="House Holds">مشاوره</a></li>
                             </ul>
                         </div>
                     </div>
