@@ -72,7 +72,7 @@ body{
 .customNavigation {
   position: absolute;
   z-index: 959;
-  width: 100%;
+  left:55px;
   top: -47px;
 }
 .customNavigation a {

@@ -6562,7 +6562,7 @@ header .nav {
 
 header .nav .container {
     padding-bottom: 6px;
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/menu_pattern.png") no-repeat scroll center bottom
+    background: url("../images/menu_pattern.png") no-repeat scroll center bottom
 }
 
 header .nav .row {
@@ -6608,7 +6608,7 @@ header .row #header_logo {
     padding-bottom: 10px;
     padding-left: 5px;
     padding-right: 5px;
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/logo-bg.png") no-repeat scroll 40px center
+    background: url("../images/logo-bg.png") no-repeat scroll 40px center
 }
 
 @media (max-width: 992px) {
@@ -6648,7 +6648,7 @@ header .row #header_logo {
     padding: 6px 20px;
     margin: 0 0 20px;
     position: relative;
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/cate_icon.png") no-repeat scroll left center
+    background: url("../images/cate_icon.png") no-repeat scroll left center
 }
 
 p.info-title {
@@ -6750,7 +6750,7 @@ input.button_mini, input.button_small, input.button, input.button_large, input.b
     border: 1px solid #cc9900;
     font-weight: bold;
     color: black;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/button_bg.jpg) repeat-x 0 0 #f4b61b;
+    background: url(../images/button_bg.jpg) repeat-x 0 0 #f4b61b;
     cursor: pointer;
     white-space: normal;
     text-align: left
@@ -6772,7 +6772,7 @@ input.button_mini:active, input.button_small:active, input.button:active, input.
 input.button_disabled, input.exclusive_disabled, span.exclusive {
     border: 1px solid #cccccc;
     color: #999999;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/bg_bt_2.gif) repeat-x 0 0 #cccccc;
+    background: url(../images/bg_bt_2.gif) repeat-x 0 0 #cccccc;
     cursor: default
 }
 
@@ -7457,7 +7457,7 @@ table.std td, table.table_block td {
     font: 16px/22px "Roboto", sans-serif;
     color: #706342;
     margin: 0 0 2px 0;
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/cate_icon.png") no-repeat scroll left center;
+    background: url("../images/cate_icon.png") no-repeat scroll left center;
     padding-left: 20px
 }
 
@@ -7498,12 +7498,13 @@ table.std td, table.table_block td {
 }
 
 #left_column .block .list-block li, #right_column .block .list-block li {
-    padding: 5px 0
+    padding: 5px 0;
+	direction:rtl;
 }
 
 #left_column .block .list-block li a, #right_column .block .list-block li a {
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/arrow.png") no-repeat scroll left 8px;
-    padding-left: 18px
+    background: url("../images/arrow.png") no-repeat scroll right 8px;
+    padding-right: 18px
 }
 
 #left_column .block .list-block li a i, #right_column .block .list-block li a i {
@@ -7520,7 +7521,7 @@ table.std td, table.table_block td {
 }
 
 #left_column .block .list-block li a:hover, #right_column .block .list-block li a:hover {
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/arrow.png") no-repeat scroll left -16px;
+    background: url("../images/arrow.png") no-repeat scroll right -16px;
     transition-duration: 300ms
 }
 
@@ -7668,10 +7669,11 @@ table.std td, table.table_block td {
 .page-heading, h2.centertitle_block {
     font: 18px/22px "Open Sans", sans-serif;
     color: #706342;
-    padding: 0 0 0 20px;
+    padding: 0 20px 0 0;
     margin: 0 0 14px 0;
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/cate_icon.png") no-repeat scroll left center;
-    overflow: hidden
+    background: url("../images/cate_icon.png") no-repeat scroll right center;
+    overflow: hidden;
+	direction:rtl
 }
 
 .page-heading span.heading-counter, h2.centertitle_block span.heading-counter {
@@ -7723,7 +7725,7 @@ h3.page-product-heading {
     padding: 6px 20px;
     margin: 0 0 20px;
     position: relative;
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/cate_icon.png") no-repeat scroll left center
+    background: url("../images/cate_icon.png") no-repeat scroll left center
 }
 
 ul.footer_links {
@@ -8212,7 +8214,7 @@ ul.step li em {
 }
 
 .cancel, .cancel a {
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../../../modules/productcomments/img/delete.gif) no-repeat 0 -16px !important
+    background: url(../images/img/delete.gif) no-repeat 0 -16px !important
 }
 
 .cancel a, .star a {
@@ -8687,7 +8689,7 @@ div.star_hover a, div.star a:hover {
 
 @media (max-width: 767px) {
     .footer-container #footer #block_various_links_footer ul li {
-        background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/dot.png") no-repeat scroll left 11px;
+        background: url("../images/dot.png") no-repeat scroll left 11px;
         display: block;
         padding-left: 12px
     }
@@ -8701,13 +8703,13 @@ div.star_hover a, div.star a:hover {
 @media (max-width: 767px) {
     .footer-container #footer #block_various_links_footer ul li.first_item {
         padding-left: 12px;
-        background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/dot.png") no-repeat scroll left 11px
+        background: url("../images/dot.png") no-repeat scroll left 11px
     }
 }
 
 @media (max-width: 767px) {
     .footer-container #footer #block_various_links_footer ul li:hover {
-        background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/dot.png") no-repeat scroll left -16px;
+        background: url("../images/dot.png") no-repeat scroll left -16px;
         transition-duration: 300ms
     }
 }
@@ -8722,11 +8724,11 @@ div.star_hover a, div.star a:hover {
     font-family: "FontAwesome";
     padding-right: 10px;
     position: relative;
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/dot.png") no-repeat scroll left 5px
+    background: url("../images/dot.png") no-repeat scroll left 5px
 }
 
 .footer-container #footer .category_footer li a:hover:before, .footer-container #footer #myaccount_footer li a:hover:before, .footer-container #footer #tm_links_block1_footer li a:hover:before, .footer-container #footer #tm_links_block2_footer li a:hover:before, .footer-container #footer #tm_links_block3_footer li a:hover:before, .footer-container #footer #tm_links_block4_footer ul li a:hover:before {
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/dot.png") no-repeat scroll left -22px;
+    background: url("../images/dot.png") no-repeat scroll left -22px;
     transition-duration: 300ms
 }
 
@@ -9095,7 +9097,7 @@ div.star_hover a, div.star a:hover {
     color: white;
     font-weight: bold;
     text-transform: uppercase;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/bg_table_th.png) repeat-x 0 -10px #999999
+    background: url(../images/bg_table_th.png) repeat-x 0 -10px #999999
 }
 
 #order_carrier span {
@@ -9182,7 +9184,7 @@ table#cart_summary .gift-icon {
     float: left;
     width: 24px;
     height: 24px;
-    background-image: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../../../img/loader.gif");
+    background-image: url("../images/loader.gif");
     background-repeat: no-repeat;
     position: relative;
     bottom: -2px;
@@ -9293,7 +9295,7 @@ table#cart_summary .gift-icon {
     line-height: 29px;
     color: white;
     text-transform: uppercase;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/bg_table_th.png) repeat-x 0 -10px #999999
+    background: url(../images/bg_table_th.png) repeat-x 0 -10px #999999
 }
 
 #carrierTable td {
@@ -9346,15 +9348,15 @@ p.payment_module a {
 }
 
 p.payment_module a.bankwire {
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/bankwire.png) 15px 12px no-repeat #f6f3eb
+    background: url(../images/bankwire.png) 15px 12px no-repeat #f6f3eb
 }
 
 p.payment_module a.cheque {
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/cheque.png) 15px 15px no-repeat #f6f3eb
+    background: url(../images/cheque.png) 15px 15px no-repeat #f6f3eb
 }
 
 p.payment_module a.cash {
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/cash.png) 15px 15px no-repeat #f6f3eb
+    background: url(../images/cash.png) 15px 15px no-repeat #f6f3eb
 }
 
 p.payment_module a.cheque:after, p.payment_module a.bankwire:after, p.payment_module a.cash:after {
@@ -9946,7 +9948,7 @@ form#sendComment h3 {
     height: 28px;
     width: 498px;
     border: 1px solid #cccccc;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/bg_input.png) repeat-x 0 0 white
+    background: url(../images/bg_input.png) repeat-x 0 0 white
 }
 
 #sendComment p.textarea textarea {
@@ -9966,7 +9968,7 @@ form#sendComment h3 {
     height: 12px;
     width: 12px;
     text-indent: -5000px;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/icon/delete.gif) no-repeat 0 0
+    background: url(../images/delete.gif) no-repeat 0 0
 }
 
 .star {
@@ -10029,13 +10031,13 @@ div.star.star_hover:after {
 .form-group.form-error input, .form-group.form-error textarea {
     border: 1px solid #f13340;
     color: #f13340;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/icon/form-error.png) 98% 5px no-repeat #fff1f2
+    background: url(../images/form-error.png) 98% 5px no-repeat #fff1f2
 }
 
 .form-group.form-ok input, .form-group.form-ok textarea {
     border: 1px solid #46a74e;
     color: #35b33f;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/icon/form-ok.png) 98% 5px no-repeat #ddf9e1
+    background: url(../images/form-ok.png) 98% 5px no-repeat #ddf9e1
 }
 
 .form-group.form-error .form-control, .form-group.form-ok .form-control {
@@ -10346,7 +10348,7 @@ div.star.star_hover:after {
 }
 
 .top_button {
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/../img/megnor/back_to_top.png") no-repeat scroll 0 0 transparent;
+    background: url("../images/back_to_top.png") no-repeat scroll 0 0 transparent;
     height: 34px;
     width: 34px;
     right: 10px;
@@ -10479,7 +10481,7 @@ div.star.star_hover:after {
 }
 
 div.selector, div.selector span, div.checker span, div.radio span, div.uploader, div.uploader span.action, div.button, div.button span {
-    background-image: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/autoload/../../img/jquery/uniform/sprite.png");
+    background-image: url("../images/sprite.png");
     background-repeat: no-repeat;
     -webkit-font-smoothing: antialiased
 }
@@ -10499,7 +10501,7 @@ div.selector, div.selector *, div.radio, div.radio *, div.checker, div.checker *
 }
 
 .highContrastDetect {
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/autoload/../../../img/jquery/uniform/bg-input.png") repeat-x 0 0;
+    background: url("../images/bg-input.png") repeat-x 0 0;
     width: 0;
     height: 0
 }
@@ -11084,7 +11086,7 @@ input.uniform-input, input.uniform-input:focus {
 }
 
 #fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
-    background-image: url('http://prestashop-demos.org/PRS04/PRS040084/js/jquery/plugins/fancybox/fancybox_sprite.png')
+    background-image: url('../images/fancybox_sprite.png')
 }
 
 #fancybox-loading {
@@ -11102,7 +11104,7 @@ input.uniform-input, input.uniform-input:focus {
 #fancybox-loading div {
     width: 44px;
     height: 44px;
-    background: url('http://prestashop-demos.org/PRS04/PRS040084/js/jquery/plugins/fancybox/fancybox_loading.gif') center center no-repeat
+    background: url('../images/fancybox_loading.gif') center center no-repeat
 }
 
 .fancybox-close {
@@ -11122,7 +11124,7 @@ input.uniform-input, input.uniform-input:focus {
     height: 100%;
     cursor: pointer;
     text-decoration: none;
-    background: transparent url('http://prestashop-demos.org/PRS04/PRS040084/js/jquery/plugins/fancybox/blank.gif');
+    background: transparent url('../images/blank.gif');
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     z-index: 8040
 }
@@ -11190,7 +11192,7 @@ input.uniform-input, input.uniform-input:focus {
     overflow: hidden;
     display: none;
     z-index: 8010;
-    background: url('http://prestashop-demos.org/PRS04/PRS040084/js/jquery/plugins/fancybox/fancybox_overlay.png')
+    background: url('../images/fancybox_overlay.png')
 }
 
 .fancybox-overlay-fixed {
@@ -11263,12 +11265,12 @@ input.uniform-input, input.uniform-input:focus {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
     #fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
-        background-image: url('http://prestashop-demos.org/PRS04/PRS040084/js/jquery/plugins/fancybox/fancybox_sprite@2x.png');
+        background-image: url('../images/fancybox_sprite@2x.png');
         background-size: 44px 152px
     }
 
     #fancybox-loading div {
-        background-image: url('http://prestashop-demos.org/PRS04/PRS040084/js/jquery/plugins/fancybox/fancybox_loading@2x.gif');
+        background-image: url('../images/fancybox_loading@2x.gif');
         background-size: 24px 24px
     }
 }
@@ -11394,7 +11396,7 @@ input.uniform-input, input.uniform-input:focus {
 .shopping_cart > a:first-child b {
     font: 14px/22px "Open Sans", sans-serif;
     padding-right: 5px;
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/modules/blockcart/../../../img/cart.png") no-repeat scroll left center;
+    background: url("../images/cart.png") no-repeat scroll left center;
     padding-left: 35px
 }
 
@@ -11971,12 +11973,12 @@ input.uniform-input, input.uniform-input:focus {
 }
 
 #header .header_cart {
-    float: right;
+    float: left;
     padding: 0;
     width: auto;
     position: absolute;
     top: 114px;
-    right: 0;
+    left: 0;
     z-index: 9;
 @incldue border-radius(5 px 5 px 0 0 )
 }
@@ -14208,7 +14210,7 @@ ul.wlp_bought_list li .lnkdel {
     display: block;
     padding: 7px 11px 5px 22px;
     color: #333;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/modules/blockpermanentlinks/img/arrow_right_2.png) no-repeat 10px 10px
+    background: url(../images/arrow_right_2.png) no-repeat 10px 10px
 }
 
 ul#footer_links {
@@ -14347,7 +14349,8 @@ ul#footer_links li {
     background: none !important;
     padding: 0;
     margin: 0;
-    border: none
+    border: none;
+	direction:rtl;
 }
 
 #categories_block_left li a {
@@ -14357,13 +14360,13 @@ ul#footer_links li {
     font-size: 14px;
     line-height: 30px;
     padding: 0 10px 0 18px;
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/modules/blockcategories/../../../img/arrow.png") no-repeat scroll left 13px
+    background: url("../images/arrow.png") no-repeat scroll right 13px;
 }
 
 #categories_block_left li span.grower {
     display: block;
     position: absolute;
-    right: 0;
+    left: 0;
     top: 0;
     cursor: pointer;
     font-family: "FontAwesome";
@@ -14393,7 +14396,7 @@ ul#footer_links li {
 }
 
 #categories_block_left li span.grower:hover + a, #categories_block_left li a:hover, #categories_block_left li a.selected {
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/modules/blockcategories/../../../img/arrow.png") no-repeat scroll left -11px;
+    background: url("../images/arrow.png") no-repeat scroll right -11px;
     transition-duration: 300ms;
     color: #ffa145
 }
@@ -14492,7 +14495,7 @@ ul#footer_links li {
     width: 30px;
     height: 30px;
     text-indent: -999999px;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/modules/tmhomeslider/css/../images/gray_next.png) no-repeat 0 -30px
+    background: url(../images/gray_next.png) no-repeat 0 -30px
 }
 
 .bx-prev {
@@ -14504,7 +14507,7 @@ ul#footer_links li {
     width: 30px;
     height: 30px;
     text-indent: -999999px;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/modules/tmhomeslider/css/../images/gray_prev.png) no-repeat 0 -30px
+    background: url(../images/gray_prev.png) no-repeat 0 -30px
 }
 
 .bx-pager {
@@ -14529,7 +14532,7 @@ ul#footer_links li {
     font-size: 11px;
     color: #000;
     text-decoration: none;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/modules/tmhomeslider/css/../images/gray_pager.png) no-repeat 0 -20px
+    background: url(../images/gray_pager.png) no-repeat 0 -20px
 }
 
 .bx-next:hover, .bx-prev:hover {
@@ -14603,7 +14606,7 @@ ul#footer_links li {
 
 #tmhomepage-slider .bx-wrapper .bx-loading {
     min-height: 50px;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/modules/tmhomeslider/css/images/bx_loader.gif) center center no-repeat white;
+    background: url(../images/bx_loader.gif) center center no-repeat white;
     height: 100%;
     width: 100%;
     position: absolute;
@@ -14720,7 +14723,7 @@ ul#footer_links li {
     width: 10px;
     height: 11px;
     outline: 0;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/modules/tmhomeslider/css/images/controls.png) -86px -11px no-repeat;
+    background: url(../images/controls.png) -86px -11px no-repeat;
     margin: 0 3px
 }
 
@@ -14734,7 +14737,7 @@ ul#footer_links li {
     width: 9px;
     height: 11px;
     outline: 0;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/modules/tmhomeslider/css/images/controls.png) -86px -44px no-repeat;
+    background: url(../images/controls.png) -86px -44px no-repeat;
     margin: 0 3px
 }
 
@@ -14928,7 +14931,7 @@ ul#footer_links li {
 
 #tmhomepage-slider .bx-wrapper .bx-loading {
     min-height: 50px;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/modules/tmhomeslider/css/images/bx_loader.gif) center center no-repeat white;
+    background: url(../images/bx_loader.gif) center center no-repeat white;
     height: 100%;
     width: 100%;
     position: absolute;
@@ -15042,7 +15045,7 @@ ul#footer_links li {
     width: 10px;
     height: 11px;
     outline: 0;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/modules/tmhomeslider/css/images/controls.png) -86px -11px no-repeat;
+    background: url(../images/controls.png) -86px -11px no-repeat;
     margin: 0 3px
 }
 
@@ -15056,7 +15059,7 @@ ul#footer_links li {
     width: 9px;
     height: 11px;
     outline: 0;
-    background: url(http://prestashop-demos.org/PRS04/PRS040084/modules/tmhomeslider/css/images/controls.png) -86px -44px no-repeat;
+    background: url(../images/controls.png) -86px -44px no-repeat;
     margin: 0 3px
 }
 
@@ -15188,8 +15191,8 @@ ul#footer_links li {
 }
 
 .sf-menu > li {
-    float: left;
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/modules/blocktopmenu/css/../../../../img/menu_sep.png") no-repeat scroll right center
+    float: right;
+    background: url("../images/menu_sep.png") no-repeat scroll left center
 }
 
 @media (max-width: 767px) {
@@ -15273,7 +15276,7 @@ ul#footer_links li {
     color: #EDE7D9;
     padding: 4px 5px;
     display: block;
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/modules/blocktopmenu/css/../../../../img/menu_bullet.png") no-repeat scroll 8px 11px;
+    background: url("../images/menu_bullet.png") no-repeat scroll 8px 11px;
     padding-left: 20px
 }
 
@@ -15284,19 +15287,19 @@ ul#footer_links li {
 }
 
 .sf-menu li ul li ul a:hover {
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/modules/blocktopmenu/css/../../../../img/menu_bullet.png") no-repeat scroll 8px -14px #b9aa8b;
+    background: url("../images/menu_bullet.png") no-repeat scroll 8px -14px #b9aa8b;
     color: white
 }
 
 @media (max-width: 767px) {
     .sf-menu li ul li ul a:hover {
         color: #ffa145;
-        background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/modules/blocktopmenu/css/../../../../img/menu_bullet.png") no-repeat scroll 8px 11px white
+        background: url("../images/menu_bullet.png") no-repeat scroll 8px 11px white
     }
 }
 
 .submenu-container .sfHover > .sf-with-ul {
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/modules/blocktopmenu/css/../../../../img/menu_bullet.png") no-repeat scroll 8px -14px #b9aa8b;
+    background: url("../images/menu_bullet.png") no-repeat scroll 8px -14px #b9aa8b;
     color: white
 }
 
@@ -15381,7 +15384,7 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul {
     color: #EDE7D9;
     padding: 4px 5px;
     display: block;
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/modules/blocktopmenu/css/../../../../img/menu_bullet.png") no-repeat scroll 8px 11px;
+    background: url("../images/menu_bullet.png") no-repeat scroll 8px 11px;
     padding-left: 20px
 }
 
@@ -15392,14 +15395,14 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul {
 }
 
 .sf-menu > li > ul > li > a:hover {
-    background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/modules/blocktopmenu/css/../../../../img/menu_bullet.png") no-repeat scroll 8px -14px #b9aa8b;
+    background: url("../images/menu_bullet.png") no-repeat scroll 8px -14px #b9aa8b;
     color: white
 }
 
 @media (max-width: 767px) {
     .sf-menu > li > ul > li > a:hover {
         color: #ffa145;
-        background: url("http://prestashop-demos.org/PRS04/PRS040084/themes/PRS040084/css/modules/blocktopmenu/css/../../../../img/menu_bullet.png") no-repeat scroll 8px 11px white
+        background: url("../images/menu_bullet.png") no-repeat scroll 8px 11px white
     }
 }
 
