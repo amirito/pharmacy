@@ -62,7 +62,7 @@ audio:not([controls]) {
 }
 
 html {
-    font-family: sans-serif;
+    font-family: koodak;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
 }
@@ -108,7 +108,7 @@ mark {
 }
 
 code, kbd, pre, samp {
-    font-family: monospace, serif;
+    font-family: koodak;
     font-size: 1em
 }
 
@@ -163,7 +163,7 @@ legend {
 }
 
 button, input, select, textarea {
-    font-family: inherit;
+    font-family: koodak;
     font-size: 100%;
     margin: 0
 }
@@ -364,7 +364,7 @@ cite {
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: Open Sans, verdana, Helvetica, sans-serif;
+    font-family: koodak;
     font-weight: 500
 }
 
@@ -554,7 +554,7 @@ address {
 }
 
 code, pre {
-    font-family: Monaco, Menlo, Consolas, "Courier New", monospace
+    font-family: koodak
 }
 
 code {
@@ -4084,7 +4084,7 @@ button.close {
 }
 
 .text-hide {
-    font: 0/0 a;
+    font: 0/0 koodak;
     color: transparent;
     text-shadow: none;
     background-color: transparent;
@@ -6487,7 +6487,7 @@ body {
     height: 100%;
     line-height: 24px;
     font-size: 14px;
-    font-family: "Open Sans", verdana, Helvetica, sans-serif;
+    font-family: koodak;
     color: #7f7355
 }
 
@@ -6642,7 +6642,7 @@ header .row #header_logo {
 #center_column .page_product_box h3 {
     color: #706342;
     text-transform: capitalize;
-    font-family: "Open Sans", sans-serif;
+    font-family: koodak;
     font-size: 18px;
     line-height: 22px;
     padding: 6px 20px;
@@ -6828,7 +6828,7 @@ input.button_disabled, input.exclusive_disabled, span.exclusive {
 }
 
 .cart_navigation .btn-default.button-medium {
-    font: 13px/18px "Open Sans", verdana, Helvetica, sans-serif;
+    font: 13px/18px koodak;
     color: white !important;
     padding: 0;
     border: none;
@@ -6903,7 +6903,7 @@ input.button_disabled, input.exclusive_disabled, span.exclusive {
 }
 
 #button_order_cart, #layer_cart .button-container .button-medium {
-    font: 13px/18px "Open Sans", verdana, Helvetica, sans-serif;
+    font: 13px/18px koodak;
     color: #7f7355;
     padding: 0;
     border: 1px solid #DBD4BF;
@@ -6978,7 +6978,7 @@ input.button_disabled, input.exclusive_disabled, span.exclusive {
 }
 
 .button.ajax_add_to_cart_button, .button.lnk_view, .button.button-small, .button.button-medium, .button.exclusive-medium {
-    font: 13px/18px "Open Sans", verdana, Helvetica, sans-serif;
+    font: 13px/18px koodak;
     color: #7f7355;
     padding: 0;
     border: 1px solid;
@@ -7155,7 +7155,7 @@ table.std td, table.table_block td {
 }
 
 .price.product-price {
-    font: 15px/15px "Open Sans", sans-serif;
+    font: 15px/15px koodak;
     color: #ff8a00;
     font-weight: bold
 }
@@ -7178,7 +7178,7 @@ table.std td, table.table_block td {
 .price-percent-reduction {
     background: #f6f3eb;
     border: 1px solid #eeeade;
-    font: 13px/16px "Open Sans", sans-serif;
+    font: 13px/16px koodak;
     color: #7f7355;
     padding: 0 5px 0 3px;
     display: inline-block;
@@ -7188,7 +7188,7 @@ table.std td, table.table_block td {
 }
 
 .price-percent-reduction.small {
-    font: 700 14px/17px "Open Sans", verdana, Helvetica, sans-serif;
+    font: 700 14px/17px koodak;
     padding: 1px 6px
 }
 
@@ -7209,7 +7209,7 @@ table.std td, table.table_block td {
 }
 
 .new-label {
-    font: 12px/12px "Open Sans", verdana, Helvetica, sans-serif;
+    font: 12px/12px koodak;
     color: white;
     background: #ffa145;
     text-transform: uppercase;
@@ -7229,7 +7229,7 @@ table.std td, table.table_block td {
 }
 
 .sale-label {
-    font: 12px/12px "Open Sans", verdana, Helvetica, sans-serif;
+    font: 12px/12px koodak;
     color: white;
     background: #9E9073;
     text-transform: uppercase;
@@ -7390,7 +7390,7 @@ table.std td, table.table_block td {
 }
 
 #home-page-tabs > li a {
-    font: 600 21px/24px "Open Sans", sans-serif;
+    font: 600 21px/24px koodak;
     color: #706342;
     text-transform: uppercase;
     border: none;
@@ -7454,11 +7454,12 @@ table.std td, table.table_block td {
 }
 
 #left_column .block .title_block, #left_column .block h4, #right_column .block .title_block, #right_column .block h4 {
-    font: 16px/22px "Roboto", sans-serif;
+    font: 16px/22px koodak;
     color: #706342;
     margin: 0 0 2px 0;
-    background: url("../images/cate_icon.png") no-repeat scroll left center;
-    padding-left: 20px
+    background: url("../images/cate_icon.png") no-repeat scroll right center;
+    padding-right: 20px;
+	direction:rtl; 
 }
 
 @media (max-width: 767px) {
@@ -7596,7 +7597,7 @@ table.std td, table.table_block td {
 }
 
 #left_column .block .products-block .price-percent-reduction, #right_column .block .products-block .price-percent-reduction {
-    font: 14px/17px "Open Sans", verdana, Helvetica, sans-serif;
+    font: 14px/17px koodak;
     padding: 1px 6px
 }
 
@@ -7667,7 +7668,7 @@ table.std td, table.table_block td {
 }
 
 .page-heading, h2.centertitle_block {
-    font: 18px/22px "Open Sans", sans-serif;
+    font: 18px/22px koodak;
     color: #706342;
     padding: 0 20px 0 0;
     margin: 0 0 14px 0;
@@ -7677,7 +7678,7 @@ table.std td, table.table_block td {
 }
 
 .page-heading span.heading-counter, h2.centertitle_block span.heading-counter {
-    font: bold 13px/22px "Open Sans", verdana, Helvetica, sans-serif;
+    font: bold 13px/22px koodak;
     float: right;
     color: #7f7355;
     text-transform: none;
@@ -7706,7 +7707,7 @@ table.std td, table.table_block td {
 }
 
 .page-subheading {
-    font-family: "Open Sans", sans-serif;
+    font-family: koodak;
     color: #706342;
     font-size: 16px;
     padding: 0 0 15px;
@@ -7719,7 +7720,7 @@ table.std td, table.table_block td {
 h3.page-product-heading {
     color: #706342;
     text-transform: capitalize;
-    font-family: "Open Sans", sans-serif;
+    font-family: koodak;
     font-size: 18px;
     line-height: 22px;
     padding: 6px 20px;
@@ -8410,7 +8411,7 @@ div.star_hover a, div.star a:hover {
 }
 
 .footer-container #footer h4 {
-    font: 18px/22px "Roboto", sans-serif;
+    font: 18px/22px koodak;
     color: #7f7355;
     margin: 0 0 10px 0
 }
@@ -8442,7 +8443,7 @@ div.star_hover a, div.star a:hover {
 }
 
 .footer-container #footer #block_contact_infos > div ul {
-    margin-right: 38px
+    
 }
 
 .footer-container #footer #block_contact_infos > div ul li {
@@ -8520,8 +8521,8 @@ div.star_hover a, div.star a:hover {
 .footer-container #footer #social_block ul li {
     float: left;
     width: 100%;
-    text-align: left;
-    margin-bottom: 15px
+    text-align: right;
+    margin-bottom: 15px;
 }
 
 .footer-container #footer #social_block ul li a {
@@ -8724,11 +8725,11 @@ div.star_hover a, div.star a:hover {
     font-family: "FontAwesome";
     padding-right: 10px;
     position: relative;
-    background: url("../images/dot.png") no-repeat scroll left 5px
+    background: url("../images/dot.png") no-repeat scroll right 5px
 }
 
 .footer-container #footer .category_footer li a:hover:before, .footer-container #footer #myaccount_footer li a:hover:before, .footer-container #footer #tm_links_block1_footer li a:hover:before, .footer-container #footer #tm_links_block2_footer li a:hover:before, .footer-container #footer #tm_links_block3_footer li a:hover:before, .footer-container #footer #tm_links_block4_footer ul li a:hover:before {
-    background: url("../images/dot.png") no-repeat scroll left -22px;
+    background: url("../images/dot.png") no-repeat scroll right -22px;
     transition-duration: 300ms
 }
 
@@ -8768,7 +8769,7 @@ div.star_hover a, div.star a:hover {
 }
 
 .cart_navigation .button-exclusive {
-    font: 13px/18px "Open Sans", verdana, Helvetica, sans-serif;
+    font: 13px/18px koodak;
     color: #7f7355;
     padding: 0;
     -webkit-border-radius: 4px;
@@ -8917,13 +8918,13 @@ div.star_hover a, div.star a:hover {
 }
 
 #cart_summary tfoot td.total_price_container span {
-    font: 600 18px/22px "Open Sans", sans-serif;
+    font: 600 18px/22px koodak;
     color: #555454;
     text-transform: uppercase
 }
 
 #cart_summary tfoot td#total_price_container {
-    font: 600 21px/25px "Open Sans", sans-serif;
+    font: 600 21px/25px koodak;
     color: #ff8a00;
     background: white
 }
@@ -9036,7 +9037,7 @@ div.star_hover a, div.star a:hover {
 }
 
 .cart_voucher h4 {
-    font: 600 18px/22px "Open Sans", sans-serif;
+    font: 600 18px/22px koodak;
     color: #706342;
     text-transform: uppercase;
     padding: 7px 0 10px 0
@@ -9841,14 +9842,14 @@ table.discount i.icon-remove {
 }
 
 #pagenotfound .pagenotfound h1 {
-    font: 600 28px/34px "Open Sans", sans-serif;
+    font: 600 28px/34px koodak;
     color: #7f7355;
     text-transform: uppercase;
     margin-bottom: 7px
 }
 
 #pagenotfound .pagenotfound p {
-    font: 600 16px/20px "Open Sans", sans-serif;
+    font: 600 16px/20px koodak;
     color: #555454;
     text-transform: uppercase;
     border-bottom: 1px solid #eeeade;
@@ -10118,7 +10119,7 @@ div.star.star_hover:after {
 #facebook_block h4 {
     padding: 35px 0 0 0;
     margin: 0 0 12px 0;
-    font: 300 21px/25px "Open Sans", sans-serif;
+    font: 300 21px/25px koodak;
     color: #907f55
 }
 
@@ -10906,7 +10907,7 @@ div.button.disabled span, div.button.disabled.active span {
 
 input.uniform-input, select.uniform-multiselect, textarea.uniform {
     font-size: 13px;
-    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-family: koodak;
     font-weight: normal;
     line-height: 18px;
     color: #777;
@@ -10922,7 +10923,7 @@ input.uniform-input.hover, input.uniform-input.focus, select.uniform-multiselect
 
 div.button span {
     font-weight: bold;
-    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-family: koodak;
     font-size: 12px;
     letter-spacing: 1px;
     text-transform: uppercase
@@ -10950,7 +10951,7 @@ div.selector span {
 }
 
 div.selector select {
-    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-family: koodak;
     font-size: 12px;
     cursor: pointer
 }
@@ -11068,7 +11069,7 @@ input.uniform-input, input.uniform-input:focus {
 
 .fancybox-error {
     color: #444;
-    font: 14px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 14px/20px koodak;
     margin: 0;
     padding: 15px;
     white-space: nowrap
@@ -11208,7 +11209,7 @@ input.uniform-input, input.uniform-input:focus {
 
 .fancybox-title {
     visibility: hidden;
-    font: normal 13px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 13px/20px koodak;
     position: relative;
     text-shadow: none;
     z-index: 8050
@@ -11394,7 +11395,7 @@ input.uniform-input, input.uniform-input:focus {
 }
 
 .shopping_cart > a:first-child b {
-    font: 14px/22px "Open Sans", sans-serif;
+    font: 14px/22px koodak;
     padding-right: 5px;
     background: url("../images/cart.png") no-repeat scroll left center;
     padding-left: 35px
@@ -11402,7 +11403,7 @@ input.uniform-input, input.uniform-input:focus {
 
 @media (max-width: 479px) {
     .shopping_cart > a:first-child b {
-        font: 400 12px/22px "Open Sans", sans-serif;
+        font: 400 12px/22px koodak;
         padding: 0
     }
 }
@@ -11716,7 +11717,7 @@ input.uniform-input, input.uniform-input:focus {
 }
 
 #layer_cart .layer_cart_product h2 {
-    font: 18px/22px "Open Sans", verdana, Helvetica, sans-serif;
+    font: 18px/22px koodak;
     color: #ffa145;
     margin-bottom: 22px
 }
@@ -11807,7 +11808,7 @@ input.uniform-input, input.uniform-input:focus {
 }
 
 #layer_cart .layer_cart_cart h2 {
-    font: 18px/22px "Open Sans", verdana, Helvetica, sans-serif;
+    font: 18px/22px koodak;
     color: #ffa145;
     border-bottom: 1px solid #eeeade;
     padding-bottom: 13px;
@@ -11882,7 +11883,7 @@ input.uniform-input, input.uniform-input:focus {
 }
 
 #layer_cart .crossseling h2 {
-    font: 18px/22px "Open Sans", verdana, Helvetica, sans-serif;
+    font: 18px/22px koodak;
     color: #ffa145;
     margin-bottom: 25px
 }
@@ -12351,7 +12352,7 @@ input.uniform-input, input.uniform-input:focus {
 }
 
 #contact_block p.tel {
-    font: 400 17px/21px "Open Sans", verdana, Helvetica, sans-serif;
+    font: 400 17px/21px koodak;
     color: #7f7355;
     margin-bottom: 6px
 }
@@ -12416,7 +12417,7 @@ ul.product_list .product-image-container img {
 }
 
 ul.product_list .product-image-container .quick-view {
-    font: 13px/16px "Open Sans", verdana, Helvetica, sans-serif;
+    font: 13px/16px koodak;
     color: #7f7355;
     position: absolute;
     left: 54%;
@@ -12985,7 +12986,7 @@ ul.tm-carousel li {
 }
 
 ul.tm-carousel li .quick-view {
-    font: 700 13px/16px "Open Sans", verdana, Helvetica, sans-serif;
+    font: 700 13px/16px koodak;
     color: #777676;
     position: absolute;
     left: 50%;
@@ -14766,7 +14767,7 @@ ul#footer_links li {
 
 #tmhomepage-slider .bx-wrapper .bx-caption span {
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: koodak;
     display: block;
     font-size: .85em;
     padding: 10px
@@ -14819,7 +14820,7 @@ ul#footer_links li {
 
 #tmhomepage-slider .tmhomeslider-description h2 {
     font-size: 2.1em;
-    font-family: 'Arimo', Arial, Helvetica, sans-serif;
+    font-family: koodak;
     color: #555;
     margin: 0;
     padding: 0
@@ -14943,7 +14944,7 @@ ul#footer_links li {
 #tmhomepage-slider .bx-wrapper .bx-pager {
     text-align: center;
     font-size: .85em;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: koodak;
     font-weight: bold;
     color: #666;
     padding-top: 20px
@@ -15088,7 +15089,7 @@ ul#footer_links li {
 
 #tmhomepage-slider .bx-wrapper .bx-caption span {
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: koodak;
     display: block;
     font-size: .85em;
     padding: 10px
@@ -15226,7 +15227,7 @@ ul#footer_links li {
 }
 
 .sf-menu > li > a {
-    font: 16px/24px "Roboto", sans-serif;
+    font: 16px/24px koodak;
     color: white;
     display: block;
     padding: 12px 18px 13px
@@ -15272,7 +15273,7 @@ ul#footer_links li {
     display: inline-block;
     position: relative;
     font-weight: bold;
-    font: 14px/18px "Open Sans", sans-serif;
+    font: 14px/18px koodak;
     color: #EDE7D9;
     padding: 4px 5px;
     display: block;
@@ -15380,7 +15381,7 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul {
 }
 
 .sf-menu > li > ul > li > a {
-    font: 14px/18px "Open Sans", sans-serif;
+    font: 14px/18px koodak;
     color: #EDE7D9;
     padding: 4px 5px;
     display: block;
@@ -15471,7 +15472,7 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul {
     .cat-title {
         display: block;
         cursor: pointer;
-        font: 600 18px/22px "Open Sans", sans-serif;
+        font: 600 18px/22px koodak;
         text-transform: uppercase;
         color: white;
         display: block;

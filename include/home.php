@@ -3,100 +3,96 @@
 <div class="row" id="columns_inner">
 <div id="left_column" class="col-xs-12 column" style="width:22%;">
     <div id="new-products_block_right" class="block products_block"><h4 class="title_block"><a
-            href="http://prestashop-demos.org/PRS04/PRS040084/en/new-products" title="New products">محصولات جدید</a></h4>
+            href="#" title="New products">محصولات جدید</a></h4>
 
         <div class="block_content products-block">
-            <ul class="products">
+            <ul class="products" dir="rtl">
                 <li class="clearfix"><a class="products-block-image"
-                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/20-printed-summer-dress.html"
+                                        href="#"
                                         title="Aliquam erat volutpat "><img
                         class="replace-2x img-responsive"
                         src="images/printed-chiffon-dress.jpg"
                         alt="Aliquam erat volutpat "/></a>
 
                     <div class="product-content"><h5><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/20-printed-summer-dress.html"
-                                                        title="Aliquam erat volutpat ">Aliquam erat
-                        volutpat </a></h5>
+                                                        href="#"
+                                                        title="Aliquam erat volutpat ">محصول 1 </a></h5>
 
                         <p class="product-description">Lorem ipsum dolor sit amet, consectetur
                             adipiscing elit. Sed at ante....</p>
 
-                        <div class="price-box"><span class="price"> $152.00 </span></div>
+                        <div class="price-box"><span class="price"> تومان152.00 </span></div>
                     </div>
                 </li>
                 <li class="clearfix"><a class="products-block-image"
-                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/19-printed-summer-dress.html"
+                                        href="#"
                                         title="Donec semper tristique"><img
                         class="replace-2x img-responsive"
                         src="images/printed-chiffon-dress.jpg"
                         alt="Donec semper tristique"/></a>
 
                     <div class="product-content"><h5><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/19-printed-summer-dress.html"
-                                                        title="Donec semper tristique">Donec semper
-                        tristique</a></h5>
+                                                        href="#"
+                                                        title="Donec semper tristique">محصول 2</a></h5>
 
                         <p class="product-description">Lorem ipsum dolor sit amet, consectetur
                             adipiscing elit. Sed at ante....</p>
 
-                        <div class="price-box"><span class="price"> $169.00 </span></div>
+                        <div class="price-box"><span class="price"> تومان169.00 </span></div>
                     </div>
                 </li>
                 <li class="clearfix"><a class="products-block-image"
-                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/18-printed-summer-dress.html"
+                                        href="#"
                                         title="Integer tempor lacus eget "><img
                         class="replace-2x img-responsive"
                         src="images/printed-chiffon-dress.jpg"
                         alt="Integer tempor lacus eget "/></a>
 
                     <div class="product-content"><h5><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/18-printed-summer-dress.html"
-                                                        title="Integer tempor lacus eget ">Integer
-                        tempor lacus eget </a></h5>
+                                                        href="#"
+                                                        title="Integer tempor lacus eget ">محصول 3</a></h5>
 
                         <p class="product-description">Lorem ipsum dolor sit amet, consectetur
                             adipiscing elit. Sed at ante....</p>
 
-                        <div class="price-box"><span class="price"> $99.00 </span></div>
+                        <div class="price-box"><span class="price"> تومان99.00 </span></div>
                     </div>
                 </li>
                 <li class="clearfix"><a class="products-block-image"
-                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/17-printed-summer-dress.html"
+                                        href="#"
                                         title="Nullam mollis dolor ac"><img
                         class="replace-2x img-responsive"
                         src="images/printed-chiffon-dress.jpg"
                         alt="Nullam mollis dolor ac"/></a>
 
                     <div class="product-content"><h5><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/17-printed-summer-dress.html"
-                                                        title="Nullam mollis dolor ac">Nullam mollis
-                        dolor ac</a></h5>
+                                                        href="#"
+                                                        title="Nullam mollis dolor ac">محصول 4</a></h5>
 
                         <p class="product-description">Lorem ipsum dolor sit amet, consectetur
                             adipiscing elit. Sed at ante....</p>
 
-                        <div class="price-box"><span class="price"> $79.00 </span></div>
+                        <div class="price-box"><span class="price"> تومان79.00 </span></div>
                     </div>
                 </li>
             </ul>
-            <div><a href="http://prestashop-demos.org/PRS04/PRS040084/en/new-products"
-                    title="All new products" class="btn btn-default button button-small"><span>All new products<i
+            <div><a href="#"
+                    title="All new products" class="btn btn-default button button-small"><span>نمایش همه محصولات<i
                     class="icon-chevron-right right"></i></span></a></div>
         </div>
     </div>
     <ul>
         <li class="tmrightbanner-container"><a
-                href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="RightBanner 1">
+                href="#" title="RightBanner 1">
             <img src="images/right-banner-1.jpg"
                  alt="RightBanner 1"/> </a></li>
         <li class="tmrightbanner-container"><a
-                href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="RightBanner 2">
+                href="#" title="RightBanner 2">
             <img src="images/right-banner-2.jpg"
                  alt="RightBanner 2"/> </a></li>
     </ul>
     <div id="special_block_right" class="block"><p class="title_block"><a
-            href="http://prestashop-demos.org/PRS04/PRS040084/en/prices-drop" title="Specials">
+            href="#" title="Specials">
         پیشنهاد ویژه </a></p>
 
         <div class="block_content products-block">
@@ -108,20 +104,20 @@
                          alt="Cum sociis natoque" title="Cum sociis natoque"/> </a>
 
                     <div class="product-content"><h5><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/7-printed-chiffon-dress.html"
+                                                        href="#"
                                                         title="Cum sociis natoque"> Cum sociis
                         natoque </a></h5>
 
                         <p class="product-description"> Lorem ipsum dolor sit amet,...</p>
 
-                        <div class="price-box"><span class="price special-price"> $123.20 </span> <span
-                                class="price-percent-reduction">-20%</span> <span class="old-price"> $154.00 </span>
+                        <div class="price-box"><span class="price special-price"> تومان123.20 </span> <span
+                                class="price-percent-reduction">-20%</span> <span class="old-price"> تومان154.00 </span>
                         </div>
                     </div>
                 </li>
             </ul>
             <div><a class="btn btn-default button button-small"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/prices-drop"
+                    href="#"
                     title="All specials"> <span>همه پیشنهادات<i
                     class="icon-chevron-right right"></i></span> </a></div>
         </div>
@@ -136,7 +132,7 @@
 <div id="tmhomepage-slider">
     <ul id="tmhomeslider">
         <li class="tmhomeslider-container" id="slide_1"><a
-                href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#"
+                href="#"
                 title="mainbanner-1"> <img
                 src="images/mainbanner-1.png"
                 alt="mainbanner-1"/> </a>
@@ -146,7 +142,7 @@
                 <p>Devision of General Medicines</p></div>
         </li>
         <li class="tmhomeslider-container" id="slide_2"><a
-                href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#"
+                href="#"
                 title="mainbanner-2"> <img
                 src="images/mainbanner-2.png"
                 alt="mainbanner-2"/> </a>
@@ -156,7 +152,7 @@
                 <p>Highly Coordinated Care</p></div>
         </li>
         <li class="tmhomeslider-container" id="slide_3"><a
-                href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#"
+                href="#"
                 title="mainbanner-3"> <img
                 src="images/mainbanner-3.png"
                 alt="mainbanner-3"/> </a>
@@ -170,7 +166,7 @@
 <div class="tm_subbanner">
     <ul>
         <li class="tmsubbanner-container"><a
-                href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#"
+                href="#"
                 title="Subbanner 1"> <img src="images/sub-banner-1.jpg"
                                           alt="Subbanner 1"/> </a></li>
     </ul>
@@ -184,10 +180,10 @@
         class="icon-chevron-sign-right"></i></a></div>
 <ul id="feature-carousel" class="tm-carousel product_list">
 <li class=" item first-in-line first-item-of-tablet-line first-item-of-mobile-line">
-    <div class="product-container" itemscope itemtype="http://schema.org/Product">
+    <div class="product-container" itemscope itemtype="#">
         <div class="left-block">
             <div class="product-image-container"><a class="product_img_link"
-                                                    href="http://prestashop-demos.org/PRS04/PRS040084/en/dell/1-faded-short-sleeve-tshirts.html"
+                                                    href="#"
                                                     title="Nascetur ridiculus mus"
                                                     itemprop="url"> <img
                     class="replace-2x img-responsive"
@@ -195,45 +191,45 @@
                     alt="Nascetur ridiculus mus" title="Nascetur ridiculus mus"
                     width="230" height="270" itemprop="image"/> </a> <a
                     class="quick-view"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/dell/1-faded-short-sleeve-tshirts.html"
-                    rel="http://prestashop-demos.org/PRS04/PRS040084/en/dell/1-faded-short-sleeve-tshirts.html">
-                <span>Quick view</span> </a>
+                    href="#"
+                    rel="#">
+                <span>نمایش</span> </a>
 
                 <div class="content_price" itemprop="offers" itemscope
-                     itemtype="http://schema.org/Offer"><span itemprop="price"
-                                                              class="price product-price"> $125.00 </span>
+                     itemtype="#"><span itemprop="price"
+                                                              class="price product-price"> تومان125.00 </span>
                     <meta itemprop="priceCurrency" content="1"/>
                 </div>
-                <span class="new-box"> <span class="new-label">New</span> </span>
+                <span class="new-box"> <span class="new-label">جدید</span> </span>
             </div>
         </div>
         <div class="right-block"><h5 itemprop="name"><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/dell/1-faded-short-sleeve-tshirts.html"
+                                                        href="#"
                                                         title="Nascetur ridiculus mus"
                                                         itemprop="url">
-            Nascetur... </a></h5>
+            محصول </a></h5>
 
-            <div itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+            <div itemprop="offers" itemscope itemtype="#"
                  class="content_price"><span itemprop="price"
-                                             class="price product-price"> $125.00 </span>
+                                             class="price product-price"> تومان125.00 </span>
                 <meta itemprop="priceCurrency" content="1"/>
             </div>
             <div class="button-container"><a
                     class="button ajax_add_to_cart_button btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/cart?add=1&amp;id_product=1&amp;token=d92490e4f063538d327472b3186746b2"
-                    rel="nofollow" title="Add to cart" data-id-product="1"> <span>Add to cart</span>
+                    href="#"
+                    rel="nofollow" title="Add to cart" data-id-product="1"> <span>اضافه کردن به سبد خرید</span>
             </a> <a itemprop="url" class="button lnk_view btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/dell/1-faded-short-sleeve-tshirts.html"
+                    href="#"
                     title="View"> <span>More</span> </a></div>
             <div class="product-flags"></div>
         </div>
     </div>
 </li>
 <li class=" item last-item-of-mobile-line">
-    <div class="product-container" itemscope itemtype="http://schema.org/Product">
+    <div class="product-container" itemscope itemtype="#">
         <div class="left-block">
             <div class="product-image-container"><a class="product_img_link"
-                                                    href="http://prestashop-demos.org/PRS04/PRS040084/en/sony/2-blouse.html"
+                                                    href="#"
                                                     title="Sem nec tristique tempus"
                                                     itemprop="url"> <img
                     class="replace-2x img-responsive"
@@ -241,45 +237,45 @@
                     alt="Sem nec tristique tempus" title="Sem nec tristique tempus"
                     width="230" height="270" itemprop="image"/> </a> <a
                     class="quick-view"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/sony/2-blouse.html"
-                    rel="http://prestashop-demos.org/PRS04/PRS040084/en/sony/2-blouse.html">
-                <span>Quick view</span> </a>
+                    href="#"
+                    rel="#">
+                <span>نمایش</span> </a>
 
                 <div class="content_price" itemprop="offers" itemscope
-                     itemtype="http://schema.org/Offer"><span itemprop="price"
-                                                              class="price product-price"> $152.46 </span>
+                     itemtype="#"><span itemprop="price"
+                                                              class="price product-price"> تومان152.46 </span>
                     <meta itemprop="priceCurrency" content="1"/>
                 </div>
-                <span class="new-box"> <span class="new-label">New</span> </span>
+                <span class="new-box"> <span class="new-label">جدید</span> </span>
             </div>
         </div>
         <div class="right-block"><h5 itemprop="name"><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/sony/2-blouse.html"
+                                                        href="#"
                                                         title="Sem nec tristique tempus"
-                                                        itemprop="url"> Sem
-            nec... </a></h5>
+                                                        itemprop="url"> 
+            محصول </a></h5>
 
-            <div itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+            <div itemprop="offers" itemscope itemtype="#"
                  class="content_price"><span itemprop="price"
-                                             class="price product-price"> $152.46 </span>
+                                             class="price product-price"> تومان152.46 </span>
                 <meta itemprop="priceCurrency" content="1"/>
             </div>
             <div class="button-container"><a
                     class="button ajax_add_to_cart_button btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/cart?add=1&amp;id_product=2&amp;token=d92490e4f063538d327472b3186746b2"
-                    rel="nofollow" title="Add to cart" data-id-product="2"> <span>Add to cart</span>
+                    href="#"
+                    rel="nofollow" title="Add to cart" data-id-product="2"> <span>اضافه کردن به سبد خرید</span>
             </a> <a itemprop="url" class="button lnk_view btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/sony/2-blouse.html"
+                    href="#"
                     title="View"> <span>More</span> </a></div>
             <div class="product-flags"></div>
         </div>
     </div>
 </li>
 <li class=" item last-in-line last-item-of-tablet-line first-item-of-mobile-line">
-    <div class="product-container" itemscope itemtype="http://schema.org/Product">
+    <div class="product-container" itemscope itemtype="#">
         <div class="left-block">
             <div class="product-image-container"><a class="product_img_link"
-                                                    href="http://prestashop-demos.org/PRS04/PRS040084/en/canon-power-shot/3-printed-dress.html"
+                                                    href="#"
                                                     title="Habitasse platea dictumst"
                                                     itemprop="url"> <img
                     class="replace-2x img-responsive"
@@ -287,36 +283,36 @@
                     alt="Habitasse platea dictumst"
                     title="Habitasse platea dictumst" width="230" height="270"
                     itemprop="image"/> </a> <a class="quick-view"
-                                               href="http://prestashop-demos.org/PRS04/PRS040084/en/canon-power-shot/3-printed-dress.html"
-                                               rel="http://prestashop-demos.org/PRS04/PRS040084/en/canon-power-shot/3-printed-dress.html">
-                <span>Quick view</span> </a>
+                                               href="#"
+                                               rel="#">
+                <span>نمایش</span> </a>
 
                 <div class="content_price" itemprop="offers" itemscope
-                     itemtype="http://schema.org/Offer"><span itemprop="price"
-                                                              class="price product-price"> $117.00 </span>
+                     itemtype="#"><span itemprop="price"
+                                                              class="price product-price"> تومان117.00 </span>
                     <meta itemprop="priceCurrency" content="1"/>
                 </div>
-                <span class="new-box"> <span class="new-label">New</span> </span>
+                <span class="new-box"> <span class="new-label">جدید</span> </span>
                                                     <span class="sale-box"> <span
-                                                            class="sale-label">Sale!</span> </span></div>
+                                                            class="sale-label" dir="rtl"><strong>ویژه!</strong></span> </span></div>
         </div>
         <div class="right-block"><h5 itemprop="name"><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/canon-power-shot/3-printed-dress.html"
+                                                        href="#"
                                                         title="Habitasse platea dictumst"
                                                         itemprop="url">
-            Habitasse... </a></h5>
+            محصول </a></h5>
 
-            <div itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+            <div itemprop="offers" itemscope itemtype="#"
                  class="content_price"><span itemprop="price"
-                                             class="price product-price"> $117.00 </span>
+                                             class="price product-price"> تومان117.00 </span>
                 <meta itemprop="priceCurrency" content="1"/>
             </div>
             <div class="button-container"><a
                     class="button ajax_add_to_cart_button btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/cart?add=1&amp;id_product=3&amp;token=d92490e4f063538d327472b3186746b2"
-                    rel="nofollow" title="Add to cart" data-id-product="3"> <span>Add to cart</span>
+                    href="#"
+                    rel="nofollow" title="Add to cart" data-id-product="3"> <span>اضافه کردن به سبد خرید</span>
             </a> <a itemprop="url" class="button lnk_view btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/canon-power-shot/3-printed-dress.html"
+                    href="#"
                     title="View"> <span>More</span> </a></div>
             <div class="product-flags"><span class="online_only">Online only</span>
             </div>
@@ -324,10 +320,10 @@
     </div>
 </li>
 <li class=" item first-in-line last-line first-item-of-tablet-line last-item-of-mobile-line">
-    <div class="product-container" itemscope itemtype="http://schema.org/Product">
+    <div class="product-container" itemscope itemtype="#">
         <div class="left-block">
             <div class="product-image-container"><a class="product_img_link"
-                                                    href="http://prestashop-demos.org/PRS04/PRS040084/en/sony-cyber-shot/4-printed-dress.html"
+                                                    href="#"
                                                     title="Praesent fringilla augue"
                                                     itemprop="url"> <img
                     class="replace-2x img-responsive"
@@ -335,35 +331,35 @@
                     alt="Praesent fringilla augue" title="Praesent fringilla augue"
                     width="230" height="270" itemprop="image"/> </a> <a
                     class="quick-view"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/sony-cyber-shot/4-printed-dress.html"
-                    rel="http://prestashop-demos.org/PRS04/PRS040084/en/sony-cyber-shot/4-printed-dress.html">
-                <span>Quick view</span> </a>
+                    href="#"
+                    rel="#">
+                <span>نمایش</span> </a>
 
                 <div class="content_price" itemprop="offers" itemscope
-                     itemtype="http://schema.org/Offer"><span itemprop="price"
-                                                              class="price product-price"> $83.53 </span>
+                     itemtype="#"><span itemprop="price"
+                                                              class="price product-price"> تومان83.53 </span>
                     <meta itemprop="priceCurrency" content="1"/>
                 </div>
-                <span class="new-box"> <span class="new-label">New</span> </span>
+                <span class="new-box"> <span class="new-label">جدید</span> </span>
             </div>
         </div>
         <div class="right-block"><h5 itemprop="name"><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/sony-cyber-shot/4-printed-dress.html"
+                                                        href="#"
                                                         title="Praesent fringilla augue"
                                                         itemprop="url">
-            Praesent... </a></h5>
+            محصول </a></h5>
 
-            <div itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+            <div itemprop="offers" itemscope itemtype="#"
                  class="content_price"><span itemprop="price"
-                                             class="price product-price"> $83.53 </span>
+                                             class="price product-price"> تومان83.53 </span>
                 <meta itemprop="priceCurrency" content="1"/>
             </div>
             <div class="button-container"><a
                     class="button ajax_add_to_cart_button btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/cart?add=1&amp;id_product=4&amp;token=d92490e4f063538d327472b3186746b2"
-                    rel="nofollow" title="Add to cart" data-id-product="4"> <span>Add to cart</span>
+                    href="#"
+                    rel="nofollow" title="Add to cart" data-id-product="4"> <span>اضافه کردن به سبد خرید</span>
             </a> <a itemprop="url" class="button lnk_view btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/sony-cyber-shot/4-printed-dress.html"
+                    href="#"
                     title="View"> <span>More</span> </a></div>
             <div class="product-flags"><span class="online_only">Online only</span>
             </div>
@@ -371,10 +367,10 @@
     </div>
 </li>
 <li class=" item last-line first-item-of-mobile-line last-mobile-line">
-    <div class="product-container" itemscope itemtype="http://schema.org/Product">
+    <div class="product-container" itemscope itemtype="#">
         <div class="left-block">
             <div class="product-image-container"><a class="product_img_link"
-                                                    href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/5-printed-summer-dress.html"
+                                                    href="#"
                                                     title="Arcu vitae imperdiet facilisis"
                                                     itemprop="url"> <img
                     class="replace-2x img-responsive"
@@ -382,38 +378,38 @@
                     alt="Arcu vitae imperdiet facilisis"
                     title="Arcu vitae imperdiet facilisis" width="230" height="270"
                     itemprop="image"/> </a> <a class="quick-view"
-                                               href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/5-printed-summer-dress.html"
-                                               rel="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/5-printed-summer-dress.html">
-                <span>Quick view</span> </a>
+                                               href="#"
+                                               rel="#">
+                <span>نمایش</span> </a>
 
                 <div class="content_price" itemprop="offers" itemscope
-                     itemtype="http://schema.org/Offer"><span itemprop="price"
-                                                              class="price product-price"> $65.55 </span>
+                     itemtype="#"><span itemprop="price"
+                                                              class="price product-price"> تومان65.55 </span>
                     <meta itemprop="priceCurrency" content="1"/>
-                    <span class="old-price product-price"> $69.00 </span> <span
+                    <span class="old-price product-price"> تومان69.00 </span> <span
                             class="price-percent-reduction">-5%</span></div>
-                <span class="new-box"> <span class="new-label">New</span> </span>
+                <span class="new-box"> <span class="new-label">جدید</span> </span>
                                                     <span class="sale-box"> <span
-                                                            class="sale-label">Sale!</span> </span></div>
+                                                            class="sale-label" dir="rtl"><strong>ویژه!</strong></span> </span></div>
         </div>
         <div class="right-block"><h5 itemprop="name"><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/5-printed-summer-dress.html"
+                                                        href="#"
                                                         title="Arcu vitae imperdiet facilisis"
-                                                        itemprop="url"> Arcu
-            vitae... </a></h5>
+                                                        itemprop="url"> 
+            محصول </a></h5>
 
-            <div itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+            <div itemprop="offers" itemscope itemtype="#"
                  class="content_price"><span itemprop="price"
-                                             class="price product-price"> $65.55 </span>
+                                             class="price product-price"> تومان65.55 </span>
                 <meta itemprop="priceCurrency" content="1"/>
-                <span class="old-price product-price"> $69.00 </span> <span
+                <span class="old-price product-price"> تومان69.00 </span> <span
                         class="price-percent-reduction">-5%</span></div>
             <div class="button-container"><a
                     class="button ajax_add_to_cart_button btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/cart?add=1&amp;id_product=5&amp;token=d92490e4f063538d327472b3186746b2"
-                    rel="nofollow" title="Add to cart" data-id-product="5"> <span>Add to cart</span>
+                    href="#"
+                    rel="nofollow" title="Add to cart" data-id-product="5"> <span>اضافه کردن به سبد خرید</span>
             </a> <a itemprop="url" class="button lnk_view btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/5-printed-summer-dress.html"
+                    href="#"
                     title="View"> <span>More</span> </a></div>
             <div class="product-flags"><span class="online_only">Online only</span>
             </div>
@@ -424,15 +420,15 @@
 </div>
 </div>
 <div id="newproducts_block" class="block products_block"><h2 class="centertitle_block"><a
-        href="http://prestashop-demos.org/PRS04/PRS040084/en/new-products" title="New products">محصولات جدید</a></h2>
+        href="#" title="New products">محصولات جدید</a></h2>
 
 <div class="block_content">
-<ul class="product_list grid row">
+<ul class="product_list grid row" dir="rtl">
 <li class=" ajax_block_product col-xs-12 col-sm-4 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
-    <div class="product-container" itemscope itemtype="http://schema.org/Product">
+    <div class="product-container" itemscope itemtype="#">
         <div class="left-block">
             <div class="product-image-container"><a class="product_img_link"
-                                                    href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/20-printed-summer-dress.html"
+                                                    href="#"
                                                     title="Aliquam erat volutpat "
                                                     itemprop="url"> <img
                     class="replace-2x img-responsive"
@@ -440,36 +436,35 @@
                     alt="Aliquam erat volutpat " title="Aliquam erat volutpat "
                     width="230" height="270" itemprop="image"/> </a> <a
                     class="quick-view"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/20-printed-summer-dress.html"
-                    rel="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/20-printed-summer-dress.html">
-                <span>Quick view</span> </a>
+                    href="#"
+                    rel="#">
+                <span>نمایش</span> </a>
 
                 <div class="content_price" itemprop="offers" itemscope
-                     itemtype="http://schema.org/Offer"><span itemprop="price"
-                                                              class="price product-price"> $152.00 </span>
+                     itemtype="#"><span itemprop="price"
+                                                              class="price product-price"> تومان152.00 </span>
                     <meta itemprop="priceCurrency" content="1"/>
                 </div>
-                <span class="new-box"> <span class="new-label">New</span> </span>
+                <span class="new-box"> <span class="new-label">جدید</span> </span>
                                                     <span class="sale-box"> <span
-                                                            class="sale-label">Sale!</span> </span></div>
+                                                            class="sale-label" dir="rtl"><strong>ویژه!</strong></span> </span></div>
         </div>
         <div class="right-block"><h5 itemprop="name"><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/20-printed-summer-dress.html"
+                                                        href="#"
                                                         title="Aliquam erat volutpat "
-                                                        itemprop="url"> Aliquam
-            erat... </a></h5>
+                                                        itemprop="url"> محصول </a></h5>
 
-            <div itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+            <div itemprop="offers" itemscope itemtype="#"
                  class="content_price"><span itemprop="price"
-                                             class="price product-price"> $152.00 </span>
+                                             class="price product-price"> تومان152.00 </span>
                 <meta itemprop="priceCurrency" content="1"/>
             </div>
             <div class="button-container"><a
                     class="button ajax_add_to_cart_button btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/cart?add=1&amp;id_product=20&amp;token=d92490e4f063538d327472b3186746b2"
-                    rel="nofollow" title="Add to cart" data-id-product="20"> <span>Add to cart</span>
+                    href="#"
+                    rel="nofollow" title="Add to cart" data-id-product="20"> <span>اضافه کردن به سبد خرید</span>
             </a> <a itemprop="url" class="button lnk_view btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/20-printed-summer-dress.html"
+                    href="#"
                     title="View"> <span>More</span> </a></div>
             <div class="product-flags"><span class="online_only">Online only</span>
             </div>
@@ -477,10 +472,10 @@
     </div>
 </li>
 <li class=" ajax_block_product col-xs-12 col-sm-4 col-md-4 last-item-of-mobile-line">
-    <div class="product-container" itemscope itemtype="http://schema.org/Product">
+    <div class="product-container" itemscope itemtype="#">
         <div class="left-block">
             <div class="product-image-container"><a class="product_img_link"
-                                                    href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/19-printed-summer-dress.html"
+                                                    href="#"
                                                     title="Donec semper tristique"
                                                     itemprop="url"> <img
                     class="replace-2x img-responsive"
@@ -488,36 +483,35 @@
                     alt="Donec semper tristique" title="Donec semper tristique"
                     width="230" height="270" itemprop="image"/> </a> <a
                     class="quick-view"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/19-printed-summer-dress.html"
-                    rel="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/19-printed-summer-dress.html">
-                <span>Quick view</span> </a>
+                    href="#"
+                    rel="#">
+                <span>نمایش</span> </a>
 
                 <div class="content_price" itemprop="offers" itemscope
-                     itemtype="http://schema.org/Offer"><span itemprop="price"
-                                                              class="price product-price"> $169.00 </span>
+                     itemtype="#"><span itemprop="price"
+                                                              class="price product-price"> تومان169.00 </span>
                     <meta itemprop="priceCurrency" content="1"/>
                 </div>
-                <span class="new-box"> <span class="new-label">New</span> </span>
+                <span class="new-box"> <span class="new-label">جدید</span> </span>
                                                     <span class="sale-box"> <span
-                                                            class="sale-label">Sale!</span> </span></div>
+                                                            class="sale-label" dir="rtl"><strong>ویژه!</strong></span> </span></div>
         </div>
         <div class="right-block"><h5 itemprop="name"><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/19-printed-summer-dress.html"
+                                                        href="#"
                                                         title="Donec semper tristique"
-                                                        itemprop="url"> Donec
-            semper... </a></h5>
+                                                        itemprop="url"> محصول </a></h5>
 
-            <div itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+            <div itemprop="offers" itemscope itemtype="#"
                  class="content_price"><span itemprop="price"
-                                             class="price product-price"> $169.00 </span>
+                                             class="price product-price"> تومان169.00 </span>
                 <meta itemprop="priceCurrency" content="1"/>
             </div>
             <div class="button-container"><a
                     class="button ajax_add_to_cart_button btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/cart?add=1&amp;id_product=19&amp;token=d92490e4f063538d327472b3186746b2"
-                    rel="nofollow" title="Add to cart" data-id-product="19"> <span>Add to cart</span>
+                    href="#"
+                    rel="nofollow" title="Add to cart" data-id-product="19"> <span>اضافه کردن به سبد خرید</span>
             </a> <a itemprop="url" class="button lnk_view btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/19-printed-summer-dress.html"
+                    href="#"
                     title="View"> <span>More</span> </a></div>
             <div class="product-flags"><span class="online_only">Online only</span>
             </div>
@@ -525,10 +519,10 @@
     </div>
 </li>
 <li class=" ajax_block_product col-xs-12 col-sm-4 col-md-4 last-in-line last-item-of-tablet-line first-item-of-mobile-line">
-    <div class="product-container" itemscope itemtype="http://schema.org/Product">
+    <div class="product-container" itemscope itemtype="#">
         <div class="left-block">
             <div class="product-image-container"><a class="product_img_link"
-                                                    href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/18-printed-summer-dress.html"
+                                                    href="#"
                                                     title="Integer tempor lacus eget "
                                                     itemprop="url"> <img
                     class="replace-2x img-responsive"
@@ -536,35 +530,34 @@
                     alt="Integer tempor lacus eget "
                     title="Integer tempor lacus eget " width="230" height="270"
                     itemprop="image"/> </a> <a class="quick-view"
-                                               href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/18-printed-summer-dress.html"
-                                               rel="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/18-printed-summer-dress.html">
-                <span>Quick view</span> </a>
+                                               href="#"
+                                               rel="#">
+                <span>نمایش</span> </a>
 
                 <div class="content_price" itemprop="offers" itemscope
-                     itemtype="http://schema.org/Offer"><span itemprop="price"
-                                                              class="price product-price"> $99.00 </span>
+                     itemtype="#"><span itemprop="price"
+                                                              class="price product-price"> تومان99.00 </span>
                     <meta itemprop="priceCurrency" content="1"/>
                 </div>
-                <span class="new-box"> <span class="new-label">New</span> </span>
+                <span class="new-box"> <span class="new-label">جدید</span> </span>
             </div>
         </div>
         <div class="right-block"><h5 itemprop="name"><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/18-printed-summer-dress.html"
+                                                        href="#"
                                                         title="Integer tempor lacus eget "
-                                                        itemprop="url"> Integer
-            tempor... </a></h5>
+                                                        itemprop="url"> محصول </a></h5>
 
-            <div itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+            <div itemprop="offers" itemscope itemtype="#"
                  class="content_price"><span itemprop="price"
-                                             class="price product-price"> $99.00 </span>
+                                             class="price product-price"> تومان99.00 </span>
                 <meta itemprop="priceCurrency" content="1"/>
             </div>
             <div class="button-container"><a
                     class="button ajax_add_to_cart_button btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/cart?add=1&amp;id_product=18&amp;token=d92490e4f063538d327472b3186746b2"
-                    rel="nofollow" title="Add to cart" data-id-product="18"> <span>Add to cart</span>
+                    href="#"
+                    rel="nofollow" title="Add to cart" data-id-product="18"> <span>اضافه کردن به سبد خرید</span>
             </a> <a itemprop="url" class="button lnk_view btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/18-printed-summer-dress.html"
+                    href="#"
                     title="View"> <span>More</span> </a></div>
             <div class="product-flags"><span class="online_only">Online only</span>
             </div>
@@ -572,10 +565,10 @@
     </div>
 </li>
 <li class=" ajax_block_product col-xs-12 col-sm-4 col-md-4 first-in-line last-line first-item-of-tablet-line last-item-of-mobile-line">
-    <div class="product-container" itemscope itemtype="http://schema.org/Product">
+    <div class="product-container" itemscope itemtype="#">
         <div class="left-block">
             <div class="product-image-container"><a class="product_img_link"
-                                                    href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/17-printed-summer-dress.html"
+                                                    href="#"
                                                     title="Nullam mollis dolor ac"
                                                     itemprop="url"> <img
                     class="replace-2x img-responsive"
@@ -583,36 +576,35 @@
                     alt="Nullam mollis dolor ac" title="Nullam mollis dolor ac"
                     width="230" height="270" itemprop="image"/> </a> <a
                     class="quick-view"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/17-printed-summer-dress.html"
-                    rel="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/17-printed-summer-dress.html">
-                <span>Quick view</span> </a>
+                    href="#"
+                    rel="#">
+                <span>نمایش</span> </a>
 
                 <div class="content_price" itemprop="offers" itemscope
-                     itemtype="http://schema.org/Offer"><span itemprop="price"
-                                                              class="price product-price"> $79.00 </span>
+                     itemtype="#"><span itemprop="price"
+                                                              class="price product-price"> تومان79.00 </span>
                     <meta itemprop="priceCurrency" content="1"/>
                 </div>
-                <span class="new-box"> <span class="new-label">New</span> </span>
+                <span class="new-box"> <span class="new-label">جدید</span> </span>
                                                     <span class="sale-box"> <span
-                                                            class="sale-label">Sale!</span> </span></div>
+                                                            class="sale-label" dir="rtl"><strong>ویژه!</strong></span> </span></div>
         </div>
         <div class="right-block"><h5 itemprop="name"><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/17-printed-summer-dress.html"
+                                                        href="#"
                                                         title="Nullam mollis dolor ac"
-                                                        itemprop="url"> Nullam
-            mollis... </a></h5>
+                                                        itemprop="url"> محصول </a></h5>
 
-            <div itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+            <div itemprop="offers" itemscope itemtype="#"
                  class="content_price"><span itemprop="price"
-                                             class="price product-price"> $79.00 </span>
+                                             class="price product-price"> تومان79.00 </span>
                 <meta itemprop="priceCurrency" content="1"/>
             </div>
             <div class="button-container"><a
                     class="button ajax_add_to_cart_button btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/cart?add=1&amp;id_product=17&amp;token=d92490e4f063538d327472b3186746b2"
-                    rel="nofollow" title="Add to cart" data-id-product="17"> <span>Add to cart</span>
+                    href="#"
+                    rel="nofollow" title="Add to cart" data-id-product="17"> <span>اضافه کردن به سبد خرید</span>
             </a> <a itemprop="url" class="button lnk_view btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/camcorder/17-printed-summer-dress.html"
+                    href="#"
                     title="View"> <span>More</span> </a></div>
             <div class="product-flags"><span class="online_only">Online only</span>
             </div>
@@ -620,55 +612,54 @@
     </div>
 </li>
 <li class=" ajax_block_product col-xs-12 col-sm-4 col-md-4 last-line first-item-of-mobile-line last-mobile-line">
-    <div class="product-container" itemscope itemtype="http://schema.org/Product">
+    <div class="product-container" itemscope itemtype="#">
         <div class="left-block">
             <div class="product-image-container"><a class="product_img_link"
-                                                    href="http://prestashop-demos.org/PRS04/PRS040084/en/sony/16-blouse.html"
+                                                    href="#"
                                                     title="Aliquam suscipit "
                                                     itemprop="url"> <img
                     class="replace-2x img-responsive"
                     src="images/blouse.jpg"
                     alt="Aliquam suscipit " title="Aliquam suscipit " width="230"
                     height="270" itemprop="image"/> </a> <a class="quick-view"
-                                                            href="http://prestashop-demos.org/PRS04/PRS040084/en/sony/16-blouse.html"
-                                                            rel="http://prestashop-demos.org/PRS04/PRS040084/en/sony/16-blouse.html">
-                <span>Quick view</span> </a>
+                                                            href="#"
+                                                            rel="#">
+                <span>نمایش</span> </a>
 
                 <div class="content_price" itemprop="offers" itemscope
-                     itemtype="http://schema.org/Offer"><span itemprop="price"
-                                                              class="price product-price"> $105.00 </span>
+                     itemtype="#"><span itemprop="price"
+                                                              class="price product-price"> تومان105.00 </span>
                     <meta itemprop="priceCurrency" content="1"/>
                 </div>
-                <span class="new-box"> <span class="new-label">New</span> </span>
+                <span class="new-box"> <span class="new-label">جدید</span> </span>
             </div>
         </div>
         <div class="right-block"><h5 itemprop="name"><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/sony/16-blouse.html"
+                                                        href="#"
                                                         title="Aliquam suscipit "
-                                                        itemprop="url"> Aliquam
-            suscipit </a></h5>
+                                                        itemprop="url"> محصول </a></h5>
 
-            <div itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+            <div itemprop="offers" itemscope itemtype="#"
                  class="content_price"><span itemprop="price"
-                                             class="price product-price"> $105.00 </span>
+                                             class="price product-price"> تومان105.00 </span>
                 <meta itemprop="priceCurrency" content="1"/>
             </div>
             <div class="button-container"><a
                     class="button ajax_add_to_cart_button btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/cart?add=1&amp;id_product=16&amp;token=d92490e4f063538d327472b3186746b2"
-                    rel="nofollow" title="Add to cart" data-id-product="16"> <span>Add to cart</span>
+                    href="#"
+                    rel="nofollow" title="Add to cart" data-id-product="16"> <span>اضافه کردن به سبد خرید</span>
             </a> <a itemprop="url" class="button lnk_view btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/sony/16-blouse.html"
+                    href="#"
                     title="View"> <span>More</span> </a></div>
             <div class="product-flags"></div>
         </div>
     </div>
 </li>
 <li class=" ajax_block_product col-xs-12 col-sm-4 col-md-4 last-in-line last-line last-item-of-tablet-line last-item-of-mobile-line last-mobile-line">
-    <div class="product-container" itemscope itemtype="http://schema.org/Product">
+    <div class="product-container" itemscope itemtype="#">
         <div class="left-block">
             <div class="product-image-container"><a class="product_img_link"
-                                                    href="http://prestashop-demos.org/PRS04/PRS040084/en/canon-power-shot/15-blouse.html"
+                                                    href="#"
                                                     title="Phasellus sit amet urna"
                                                     itemprop="url"> <img
                     class="replace-2x img-responsive"
@@ -676,35 +667,34 @@
                     alt="Phasellus sit amet urna" title="Phasellus sit amet urna"
                     width="230" height="270" itemprop="image"/> </a> <a
                     class="quick-view"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/canon-power-shot/15-blouse.html"
-                    rel="http://prestashop-demos.org/PRS04/PRS040084/en/canon-power-shot/15-blouse.html">
-                <span>Quick view</span> </a>
+                    href="#"
+                    rel="#">
+                <span>نمایش</span> </a>
 
                 <div class="content_price" itemprop="offers" itemscope
-                     itemtype="http://schema.org/Offer"><span itemprop="price"
-                                                              class="price product-price"> $150.00 </span>
+                     itemtype="#"><span itemprop="price"
+                                                              class="price product-price"> تومان150.00 </span>
                     <meta itemprop="priceCurrency" content="1"/>
                 </div>
-                <span class="new-box"> <span class="new-label">New</span> </span>
+                <span class="new-box"> <span class="new-label">جدید</span> </span>
             </div>
         </div>
         <div class="right-block"><h5 itemprop="name"><a class="product-name"
-                                                        href="http://prestashop-demos.org/PRS04/PRS040084/en/canon-power-shot/15-blouse.html"
+                                                        href="#"
                                                         title="Phasellus sit amet urna"
-                                                        itemprop="url"> Phasellus
-            sit... </a></h5>
+                                                        itemprop="url"> محصول </a></h5>
 
-            <div itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+            <div itemprop="offers" itemscope itemtype="#"
                  class="content_price"><span itemprop="price"
-                                             class="price product-price"> $150.00 </span>
+                                             class="price product-price"> تومان150.00 </span>
                 <meta itemprop="priceCurrency" content="1"/>
             </div>
             <div class="button-container"><a
                     class="button ajax_add_to_cart_button btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/cart?add=1&amp;id_product=15&amp;token=d92490e4f063538d327472b3186746b2"
-                    rel="nofollow" title="Add to cart" data-id-product="15"> <span>Add to cart</span>
+                    href="#"
+                    rel="nofollow" title="Add to cart" data-id-product="15"> <span>اضافه کردن به سبد خرید</span>
             </a> <a itemprop="url" class="button lnk_view btn btn-default"
-                    href="http://prestashop-demos.org/PRS04/PRS040084/en/canon-power-shot/15-blouse.html"
+                    href="#"
                     title="View"> <span>More</span> </a></div>
             <div class="product-flags"></div>
         </div>
@@ -721,116 +711,116 @@
 
 <div class="block_content">
 <ul class="tree dhtml">
-<li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/3-electronics"
+<li><a href="#"
        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
     آرایشی - بهداشتی </a>
-    <ul>
-        <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/17-mobiles"
+    <!--<ul>
+        <li><a href="#"
                title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
             Mobiles </a>
             <ul>
                 <li>
-                    <a href="http://prestashop-demos.org/PRS04/PRS040084/en/18-samsung-galaxy"
+                    <a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                         Samsung Galaxy </a></li>
                 <li>
-                    <a href="http://prestashop-demos.org/PRS04/PRS040084/en/19-nokia-lumia"
+                    <a href="#"
                        title=""> Nokia Lumia </a></li>
                 <li>
-                    <a href="http://prestashop-demos.org/PRS04/PRS040084/en/20-xolo-q700i"
+                    <a href="#"
                        title=""> XOlO Q700i </a></li>
                 <li>
-                    <a href="http://prestashop-demos.org/PRS04/PRS040084/en/52-samsung-rex"
+                    <a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                         Samsung Rex </a></li>
                 <li>
-                    <a href="http://prestashop-demos.org/PRS04/PRS040084/en/53-sony-xperia"
+                    <a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                         Sony Xperia </a></li>
                 <li class="last"><a
-                        href="http://prestashop-demos.org/PRS04/PRS040084/en/54-htc-desire"
+                        href="#"
                         title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                     HTC Desire </a></li>
             </ul>
         </li>
-        <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/44-audio-video"
+        <li><a href="#"
                title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
             Audio &amp; Video </a>
             <ul>
                 <li>
-                    <a href="http://prestashop-demos.org/PRS04/PRS040084/en/45-mp3-players"
+                    <a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                         MP3 Players </a></li>
-                <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/46-ipods"
+                <li><a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                     iPods </a></li>
-                <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/47-speakers"
+                <li><a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                     Speakers </a></li>
                 <li>
-                    <a href="http://prestashop-demos.org/PRS04/PRS040084/en/48-video-players"
+                    <a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                         Video Players </a></li>
                 <li class="last"><a
-                        href="http://prestashop-demos.org/PRS04/PRS040084/en/49-all-audio-video"
+                        href="#"
                         title=""> All Audio &amp; Video </a></li>
             </ul>
         </li>
-        <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/8-cameras"
+        <li><a href="#"
                title="Find your favorites dresses from our wide choice of evening, casual or summer dresses! We offer dresses for every day, every style and every occasion.">
             Cameras </a>
             <ul>
                 <li>
-                    <a href="http://prestashop-demos.org/PRS04/PRS040084/en/9-canon-power-shot"
+                    <a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                         Canon Power Shot </a></li>
                 <li>
-                    <a href="http://prestashop-demos.org/PRS04/PRS040084/en/10-sony-cyber-shot"
+                    <a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                         Sony Cyber Shot </a></li>
                 <li>
-                    <a href="http://prestashop-demos.org/PRS04/PRS040084/en/11-camcorder"
+                    <a href="#"
                        title=""> Camcorder </a></li>
                 <li>
-                    <a href="http://prestashop-demos.org/PRS04/PRS040084/en/50-mirrorless"
+                    <a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                         Mirrorless </a></li>
                 <li class="last"><a
-                        href="http://prestashop-demos.org/PRS04/PRS040084/en/51-digital-photoframes"
+                        href="#"
                         title=""> Digital Photoframes </a></li>
             </ul>
         </li>
-        <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/4-laptops"
+        <li><a href="#"
                title="Choose from t-shirts, tops, blouses, short sleeves, long sleeves, tank tops, 3/4 sleeves and more. Find the cut that suits you the best!">
             Laptops </a>
             <ul>
-                <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/5-dell"
+                <li><a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                     Dell </a></li>
-                <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/6-lenovo"
+                <li><a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                     Lenovo </a></li>
-                <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/7-sony"
+                <li><a href="#"
                        title=""> Sony </a></li>
-                <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/41-apple"
+                <li><a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                     Apple </a></li>
-                <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/42-hp"
+                <li><a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                     HP </a></li>
                 <li class="last"><a
-                        href="http://prestashop-demos.org/PRS04/PRS040084/en/43-acer"
+                        href="#"
                         title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                     Acer </a></li>
             </ul>
         </li>
         <li class="last"><a
-                href="http://prestashop-demos.org/PRS04/PRS040084/en/40-computer-accessories"
+                href="#"
                 title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
             Computer Accessories </a>
             <ul>
                 <li>
-                    <a href="http://prestashop-demos.org/PRS04/PRS040084/en/38-peripherals-"
+                    <a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                         Peripherals </a></li>
                 <li>
@@ -852,21 +842,21 @@
                         title=""> PC Componenet </a></li>
             </ul>
         </li>
-    </ul>
+    </ul>-->
 </li>
-<li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/12-accessories"
+<li><a href="#"
        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
     مکمل و غذای کودک </a></li>
-<li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/13-fashion"
+<li><a href="#"
        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
     تجهیزات پزشکی </a>
-    <ul>
-        <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/21-men"
+    <!--<ul>
+        <li><a href="#"
                title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
             Men </a>
             <ul>
                 <li>
-                    <a href="http://prestashop-demos.org/PRS04/PRS040084/en/24-coats-jackets"
+                    <a href="#"
                        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
                         Coats &amp; Jackets </a></li>
                 <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/25-blazers"
@@ -945,15 +935,15 @@
                     Winter Wear </a></li>
             </ul>
         </li>
-    </ul>
+    </ul>-->
 </li>
-<li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/14-interiors"
+<li><a href="#"
        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
     ارتوپدی </a></li>
-<li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/15-kitchen"
+<li><a href="#"
        title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
     آقایان </a></li>
-<li class="last"><a href="http://prestashop-demos.org/PRS04/PRS040084/en/16-house-holds"
+<li class="last"><a href="#"
                     title="Nunc gavida nisl utrices loborti molis temp tempor quam congue turpis sed psum blandit donec vitae laoreet vestibulum lobortis mattis sapien bero cursus congue urna mauris pretium in adipiscing tellus aliquam.">
     بانوان </a></li>
 </ul>
@@ -962,39 +952,39 @@
 <div id="tmleft-banner" class="block">
     <ul>
         <li class="tmleftbanner-container"><a
-                href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="LeftBanner 1">
+                href="#" title="LeftBanner 1">
             <img src="images/left-banner-1.jpg" alt="LeftBanner 1"/> </a></li>
         <li class="tmleftbanner-container"><a
-                href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="LeftBanner 2">
+                href="#" title="LeftBanner 2">
             <img src="images/left-banner-2.jpg" alt="LeftBanner 2"/> </a></li>
     </ul>
 </div>
 <section id="informations_block_left_1" class="block informations_block_left"><p
         class="title_block"><a
-        href="http://prestashop-demos.org/PRS04/PRS040084/en/content/category/1-home">
+        href="#">
     اطلاعات</a></p>
 
     <div class="block_content list-block">
         <ul>
-            <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/content/1-delivery"
+            <li><a href="#"
                    title="Delivery"> ارسال </a></li>
-            <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/content/2-legal-notice"
+            <li><a href="#"
                    title="Legal Notice"> قوانین </a></li>
-            <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/content/4-about-us"
+            <li><a href="#"
                    title="About us"> درباره ما </a></li>
-            <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/content/5-secure-payment"
+            <li><a href="#"
                    title="Secure payment"> نحوه پرداخت </a></li>
-            <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/stores" title="Our stores">
+            <li><a href="#" title="Our stores">
                 فروشگاه های ما </a></li>
         </ul>
     </div>
 </section>
 <div id="tm_links_block1" class="block tm_links_block1"><h4 class="title_block"><a
-        href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="My account">حساب من</a></h4>
+        href="#" title="My account">حساب من</a></h4>
     <ul class="block_content list-block">
-        <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#"
+        <li><a href="#"
                title="orders">سفارش ها</a></li>
-        <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="addresses">آدرس ها</a>
+        <li><a href="#" title="addresses">آدرس ها</a>
         </li>
 
     </ul>

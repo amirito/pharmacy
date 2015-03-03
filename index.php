@@ -29,33 +29,35 @@
             <div class="header top">
                 <div class="container">
                     <div class="row">
-                        <div id="header_logo"><a href="http://prestashop-demos.org/PRS04/PRS040084/" title="Demo Store">
+                        <div id="header_logo"><a href="#" title="Demo Store">
                             <img class="logo img-responsive" src="images/demo-store-1399964088.jpg" alt="Demo Store"
                                  width="244" height="87"/> </a></div>
                         <div class="header_user_info">
                             <ul>
                                 <li class="li_login last"><a class="login"
-                                                             href="http://prestashop-demos.org/PRS04/PRS040084/en/my-account"
-                                                             rel="nofollow" title="Login to your customer account"> Sign
-                                    in </a></li>
+                                                             href="#"
+                                                             rel="nofollow" title="Login to your customer account"> ورود </a></li>					
+                                 <li class="li_login last"><a class="login"
+                                                             href="#"
+                                                             rel="nofollow" title="Login to your customer account"> ثبت نام </a></li>
                             </ul>
                         </div>
                         <div id="search_block_top" class="col-sm-3 clearfix">
                             <form id="searchbox" method="get"
-                                  action="http://prestashop-demos.org/PRS04/PRS040084/en/search"><input type="hidden"
+                                  action=""><input type="hidden"
                                                                                                         name="controller"
-                                                                                                        value="search"/>
+                                                                                                        value=""/>
                                 <input type="hidden" name="orderby" value="position"/> <input type="hidden"
                                                                                               name="orderway"
                                                                                               value="desc"/> <input
                                         class="search_query form-control" type="text" id="search_query_top"
-                                        name="search_query" placeholder="Search" value=""/>
+                                        name="search_query" placeholder="جستجو" value=""/>
                                 <button type="submit" name="submit_search" class="btn btn-default button-search"><span>Search</span>
                                 </button>
                             </form>
                         </div>
-                        <div class="header_cart ">
-                            <div class="shopping_cart"><a href="http://prestashop-demos.org/PRS04/PRS040084/en/order"
+                        <div class="header_cart "  dir="rtl">
+                            <div class="shopping_cart"><a href="#"
                                                           title="View my shopping cart" rel="nofollow"> <b>سبد خرید</b>
                                 <span class="ajax_cart_quantity unvisible">0</span> <span
                                         class="ajax_cart_product_txt unvisible">Product</span> <span
@@ -72,12 +74,12 @@
                                                         class="price cart_block_shipping_cost ajax_cart_shipping_cost"> Free shipping! </span>
                                                     <span> Shipping </span></div>
                                                 <div class="cart-prices-line last-line"><span
-                                                        class="price cart_block_total ajax_block_cart_total">$0.00</span>
+                                                        class="price cart_block_total ajax_block_cart_total">تومان0.00</span>
                                                     <span>Total</span></div>
                                             </div>
                                             <p class="cart-buttons"><a id="button_order_cart"
                                                                        class="btn btn-default button button-small"
-                                                                       href="http://prestashop-demos.org/PRS04/PRS040084/en/order"
+                                                                       href="#"
                                                                        title="Check out" rel="nofollow"> <span> Check out<i
                                                     class="icon-chevron-right right"></i> </span> </a></p></div>
                                     </div>
@@ -118,7 +120,7 @@
                                             class="continue btn btn-default button exclusive-medium"
                                             title="Continue shopping"> <span> <i class="icon-chevron-left left"></i>Continue shopping </span> </span>
                                         <a class="btn btn-default button button-medium"
-                                           href="http://prestashop-demos.org/PRS04/PRS040084/en/order"
+                                           href="3"
                                            title="Proceed to checkout" rel="nofollow"> <span> Proceed to checkout<i
                                                 class="icon-chevron-right right"></i> </span> </a></div>
                                 </div>
@@ -131,116 +133,12 @@
                             <ul class="sf-menu clearfix menu-content">
                                 <li><a href="#"
                                        title="Electronics">صفحه اصلی</a>
-                                    <ul>
-                                        <li><a href="#"
-                                               title="Mobiles">sd</a>
-                                            <ul>
-                                                <li>
-                                                    <a href="#"
-                                                       title="Samsung Galaxy">Samsung Galaxy</a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="Nokia Lumia">Nokia Lumia</a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="XOlO Q700i">XOlO Q700i</a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="Samsung Rex">Samsung Rex</a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="Sony Xperia">Sony Xperia</a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="HTC Desire">HTC Desire</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="#"
-                                               title="Audio & Video">Audio & Video</a>
-                                            <ul>
-                                                <li>
-                                                    <a href="#"
-                                                       title="MP3 Players">MP3 Players</a></li>
-                                                <li><a href="#"
-                                                       title="iPods">iPods</a></li>
-                                                <li><a href="#"
-                                                       title="Speakers">Speakers</a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="Video Players">Video Players</a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="All Audio & Video">All Audio & Video</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="#"
-                                               title="Cameras">Cameras</a>
-                                            <ul>
-                                                <li>
-                                                    <a href="#"
-                                                       title="Canon Power Shot">Canon Power Shot</a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="Sony Cyber Shot">Sony Cyber Shot</a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="Camcorder">Camcorder</a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="Mirrorless">Mirrorless</a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="Digital Photoframes">Digital Photoframes</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="#"
-                                               title="Laptops">Laptops</a>
-                                            <ul>
-                                                <li><a href="#"
-                                                       title="Dell">Dell</a></li>
-                                                <li><a href="#"
-                                                       title="Lenovo">Lenovo</a></li>
-                                                <li><a href="#"
-                                                       title="Sony">Sony</a></li>
-                                                <li><a href="#"
-                                                       title="Apple">Apple</a></li>
-                                                <li><a href="#"
-                                                       title="HP">HP</a></li>
-                                                <li><a href="#"
-                                                       title="Acer">Acer</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#"
-                                               title="Computer Accessories">Computer Accessories</a>
-                                            <ul>
-                                                <li>
-                                                    <a href="#"
-                                                       title="Peripherals ">Peripherals </a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="External Hard Disks">External Hard Disks</a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="Pen Drives ">Pen Drives </a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="Computer Speakers ">Computer Speakers </a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="Printer & inks">Printer & inks</a></li>
-                                                <li>
-                                                    <a href="#"
-                                                       title="PC Componenet">PC Componenet</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="category-thumbnail"></li>
-                                    </ul>
+                                    
                                 </li>
                                 <li><a href="#"
                                        title="Accessories">درباه ما</a></li>
                                 <li><a href="#" title="Fashion">تماس با ما</a>
-                                    <ul>
+                                    <!--<ul>
                                         <li><a href="#" title="Men">Men</a>
                                             <ul>
                                                 <li>
@@ -307,7 +205,7 @@
                                             </ul>
                                         </li>
                                         <li class="category-thumbnail"></li>
-                                    </ul>
+                                    </ul>-->
                                 </li>
                                 <li><a href="#"
                                        title="Interiors">استخدام</a></li>
@@ -323,49 +221,21 @@
                     <div class="row">
                         <nav>
                             <div id="currencies-block-top">
-                                <form id="setCurrency" action="http://prestashop-demos.org/PRS04/PRS040084/en/en.html"
-                                      method="post">
-                                    <div class="current"><input type="hidden" name="id_currency" id="id_currency"
-                                                                value=""/> <input type="hidden" name="SubmitCurrency"
-                                                                                  value=""/> <span class="cur-label">Currency :</span>
-                                        <strong>USD</strong></div>
-                                    <ul id="first-currencies" class="currencies_ul toogle_content">
-                                        <li class="selected"><a href="javascript:setCurrency(1);" rel="nofollow"
-                                                                title="Dollar"> Dollar </a></li>
-                                        <li><a href="javascript:setCurrency(2);" rel="nofollow" title="Euro"> Euro </a>
-                                        </li>
-                                        <li><a href="javascript:setCurrency(3);" rel="nofollow" title="Pound">
-                                            Pound </a></li>
-                                    </ul>
-                                </form>
+                                
                             </div>
-                            <div id="languages-block-top" class="languages-block">
-                                <div class="current"><span>English</span></div>
-                                <ul id="first-languages" class="languages-block_ul toogle_content">
-                                    <li class="selected"><span>English</span></li>
-                                    <li><a href="http://prestashop-demos.org/PRS04/PRS040084/de/"
-
-                                           title="Deutsch (German)"> <span>Deutsch</span> </a></li>
-                                    <li><a href="http://prestashop-demos.org/PRS04/PRS040084/cs/" title="Czech"> <span>Czech</span>
-                                    </a></li>
-                                    <li><a href="http://prestashop-demos.org/PRS04/PRS040084/he/" title="Hebrew"> <span>Hebrew</span>
-                                    </a></li>
-                                    <li><a href="http://prestashop-demos.org/PRS04/PRS040084/ar/" title="Arabic"> <span>Arabic</span>
-                                    </a></li>
-                                </ul>
-                            </div>
+                            
                             <div class="header_permentlink">
                                 <div class="tm_permenu_inner">
                                     <div class="headertoggle_img">&nbsp;</div>
                                 </div>
                                 <ul id="header_links">
                                     <li id="header_link_contact"><a
-                                            href="http://prestashop-demos.org/PRS04/PRS040084/en/contact-us"
-                                            title="contact">contact</a></li>
+                                            href="#"
+                                            title="contact">شرایط استفاده</a></li>
                                     <li id="header_link_sitemap"><a
-                                            href="http://prestashop-demos.org/PRS04/PRS040084/en/sitemap"
-                                            title="sitemap">sitemap</a></li>
-                                    <li id="header_link_bookmark"></li>
+                                            href="#"
+                                            title="sitemap">نقشه سایت</a></li>
+                                    <li>راهنما</li>
                                 </ul>
                             </div>
                         </nav>
@@ -390,91 +260,76 @@
 ?>
     <div class="footer-container">
         <footer id="footer" class="container">
-            <div class="row">
+            <div class="row text-right" dir="rtl">
                 <div id="tmcmsinfo_block">
                     <div class="col-xs-12">
                         <div class="footer_aboutus footer-block"><h4><img
                                 src="images/about_head.png" alt=""
-                                width="31" height="38"/>About Us</h4>
+                                width="31" height="38"/>درباره ما</h4>
                             <ul class="toggle-footer">
-                                <li>TemplateMela offers website templates, wordpress themes, professional joomla
-                                    templates TemplateMela offers website templates, wordpress themes.
+                                <li>مجموعه رای وب از سال 1390 با هدف فعالیت در زمینه نرم افزار پا به عرصه وجود نهاد و به طور تخصصی فعالیت خود را به اینترنت و وب متمرکز ساخت. در این گذار ، چالش عمده ای پیش روی ما بود ، از طرفی می بایست کاری را عرضه می کردیم که در مقایسه با دیگر هم قطاران از سراسر دنیا بر یک محمل قرار گیرد ، همینطور توقعات روزافزون مشتریانمان را بر آورده سازد.
                                 </li>
                                 <li class="readmore_btn"><a class="btn btn-default" title="Read more"
-                                                            href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#">Read
-                                    More </a></li>
+                                                            href="#">بشتر بخوانید </a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <section id="block_contact_infos" class="footer-block col-xs-12 col-sm-3">
-                    <div><h4>Store Information</h4>
+                    <div><h4>اطلاعات تماس</h4>
                         <ul class="toggle-footer">
-                            <li>Megnor</li>
-                            <li><i class="icon-map-marker"></i>507-Union Trade Centre, Udhana Darwaja, Surat</li>
-                            <li><i class="icon-phone"></i>Call us now: <span>(91)-261 3023333</span></li>
+                            <li>آدرس :</li>
+                            <li><i class="icon-map-marker"></i>خیابان آزادی - خ نمایندگی - پ 6</li>
+                            <li><i class="icon-phone"></i>تلفن تماس: <span>44141868 - 021</span></li>
                             <li><i class="icon-envelope-alt"></i> <span><a
-                                    href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%61%64%6d%69%6e@%6c%6f%63%61%6c%68%6f%73%74.%63%6f%6d">
-                                &#x61;&#x64;&#x6d;&#x69;&#x6e;&#x40;&#x6c;&#x6f;&#x63;&#x61;&#x6c;&#x68;&#x6f;&#x73;&#x74;&#x2e;&#x63;&#x6f;&#x6d;</a></span>
+                                    href="#">
+                                info@rayweb.ir</a></span>
                             </li>
                         </ul>
                     </div>
                 </section>
                 <section class="footer-block col-xs-12 col-sm-2 hb-animate-element top-to-bottom"
                          id="tm_links_block1_footer"><h4 class="title_block"><a
-                        href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="My account">My account</a>
+                        href="#" title="My account">حساب من</a>
                 </h4>
 
                     <div class="block_content toggle-footer">
                         <ul class="bullet">
-                            <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#"
-                                   title="orders">orders</a></li>
-                            <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="credit slips">credit
-                                slips</a></li>
-                            <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="addresses">addresses</a>
+                            <li><a href="#"
+                                   title="orders">سفارش ها</a></li>
+                            
+                            <li><a href="#" title="addresses">آدرس ها</a>
                             </li>
-                            <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" title="Debit info">Debit
-                                info</a></li>
+                           
                         </ul>
                     </div>
                 </section>
-                <section id="social_block" class="footer-block"><h4>Follow us</h4>
+                <section id="social_block" class="footer-block"><h4>ما را دنبال کنید</h4>
                     <ul class="toggle-footer">
-                        <li class="facebook"><a target="_blank" href="http://www.facebook.com/prestashop"> <span>Facebook</span>
+                        <li class="facebook"><a target="_blank" href="#"> <span>Facebook</span>
                         </a></li>
-                        <li class="twitter"><a target="_blank" href="http://www.twitter.com/prestashop">
+                        <li class="twitter"><a target="_blank" href="#">
                             <span>Twitter</span> </a></li>
-                        <li class="rss"><a target="_blank" href="http://www.prestashop.com/blog/en/feed/">
+                        <li class="rss"><a target="_blank" href="#">
                             <span>RSS</span> </a></li>
                     </ul>
                 </section>
                 <div class="clearfix"></div>
-                <section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer"><h4>Information</h4>
-                    <ul class="toggle-footer">
-                        <li class="first_item"><a href="http://prestashop-demos.org/PRS04/PRS040084/en/prices-drop"
-                                                  title="Specials"> Specials </a></li>
-                        <li class="item"><a href="http://prestashop-demos.org/PRS04/PRS040084/en/new-products"
-                                            title="New products"> New products </a></li>
-                        <li class="item"><a href="http://prestashop-demos.org/PRS04/PRS040084/en/best-sales"
-                                            title="Best sellers"> Best sellers </a></li>
-                        <li class="item"><a href="http://prestashop-demos.org/PRS04/PRS040084/en/stores"
-                                            title="Our stores"> Our stores </a></li>
-                        <li class="item"><a href="http://prestashop-demos.org/PRS04/PRS040084/en/contact-us"
-                                            title="Contact us"> Contact us </a></li>
-                        <li><a href="http://prestashop-demos.org/PRS04/PRS040084/en/sitemap" title="Sitemap">
-                            Sitemap </a></li>
-                    </ul>
+                <section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer"><h4>تمامی حقوق مادی و معنوی محفوظ می باشد.</h4>
+                   
+                          
+                    
                 </section>
                 <section class="bottom-footer col-xs-12">
-                    <div> &copy; 2014 <a class="_blank" href="http://www.prestashop.com">Ecommerce software by
-                        PrestaShop™</a></div>
+                    <div>طراح : <a class="_blank" href="http://www.rayweb.ir">رای وب
+                       </a></div>
                 </section>
             </div>
         </footer>
         <div class="footer_bottom"></div>
     </div>
 </div>
-<a class="top_button" href="http://prestashop-demos.org/PRS04/PRS040084/en/en.html#" style="display:none;">&nbsp;</a>
+<a class="top_button" href="#" style="display:none;">&nbsp;</a>
 <script type="text/javascript">/* <![CDATA[ */
 var CUSTOMIZE_TEXTFIELD = 1;
 var FancyboxI18nClose = 'Close';
